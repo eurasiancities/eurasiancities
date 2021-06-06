@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for podcast in site.podcasts reversed %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ podcast.url }}">{{ podcast.title }}</a></h1>
+	  <p>Author: {{ podcast.author }}</p>
+	  <p style="color: #666;">Published: {{ podcast.date | date: "%x %l:%M %P"}}</p>
+
+      <div class="entry">
+        {{ podcast.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
+</div>

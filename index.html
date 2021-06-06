@@ -1,3 +1,18 @@
-<html>
-<header>Hello world!</header>
-</html>
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.announcements reversed %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	  <p>By: {{ post.author }}</p>
+	  <p style="color: #666;">Published: {{ post.date | date: "%x %l:%M %P"}}</p>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+    </article>
+  {% endfor %}
+</div>

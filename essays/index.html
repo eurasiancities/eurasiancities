@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for essay in site.essays reversed %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title }}</a></h1>
+	  <p>Author: {{ essay.author }}</p>
+	  <p style="color: #666;">Published: {{ essay.date | date: "%x %l:%M %P"}}</p>
+
+      <div class="entry">
+        {{ essay.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
+</div>

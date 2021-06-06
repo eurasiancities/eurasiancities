@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"/>
+
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="https://carleton.ca/eurus/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+			<a href="{{ site.baseurl }}/essays">Essays</a>
+			<a href="{{ site.baseurl }}/podcasts">Podcasts</a>
+			<div class="dropdown">
+				<a class="dropbtn">Resources<a>
+				<div style="padding: 0;" class="dropdown-content">
+					<a style="margin-top: 10px; margin-bottom: 10px;" href="{{ site.baseurl }}/academic-bib">Academic Bibliography</a>
+					<hr>
+					<a style="margin-top: 10px; margin-bottom: 10px;" href="{{ site.baseurl }}/media-resources">Media Resources</a>
+					<hr>
+					<a style="margin-top: 10px; margin-bottom: 10px;" href="{{ site.baseurl }}/links">Links</a>
+				</div>
+			</div>
+          </nav>
+        </header>
+      </div>
+    </div>
+	<div class="sidenav">
+	  <a href="#">Category 1</a>
+	  <a href="#">Category 2</a>
+</div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+		  
+		  <p style="color: #666; font-size: 10px; text-align: center; margin-top: 10px; margin-bottom: 10px;" >Copyright © 2021 Jeremy Peters. Some rights reserved.</p>
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
