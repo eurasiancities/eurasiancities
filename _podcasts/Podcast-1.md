@@ -2,6 +2,7 @@
 layout: post
 title: There Were No Homeless People in the Soviet Union
 author: Max Kinlin and Alex Yemelianenko
+class: post
 date: Jun 14 2021 17:53
 ---
 
