@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modernization in the Post-Soviet space: Astana and Moscow.
+title: Modernization in the Post-Soviet space - Nur-Sultan and Moscow
 author: Gulmira Imanova and Lisa Tsintsadze
 date: Jun 14 2021 18:00
 ---
