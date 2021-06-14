@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Modern Problems Require Modern Solutions
-author: Diana Danilevskaya and Denis Pinchuk
+title: Hill of Crosses in Šiauliai
+author: Morgane Bazinet and Emma Strickland
 date: Jun 14 2021 18:00
 ---
 
-<iframe src="https://open.spotify.com/embed/episode/70v8DbXoqu2LXvFi9ZYMhm" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://anchor.fm/david-sichinava/embed/episodes/Hill-of-Crosses-in-iauliai-e12p6lr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
