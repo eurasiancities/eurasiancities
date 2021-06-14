@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.podcasts or site.essays reversed %}
+{% for post in site.posts %}
+  {% for post in site.podcasts or % for post in site.essays reversed %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -14,5 +15,6 @@ layout: default
         {{ post.content }}
       </div>
     </article>
-  {% endfor %}
+    {% endif %}
+{% endfor %}
 </div>
