@@ -656,7 +656,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<i>Elechek</i>
+<i>Ak-Kalpak</i>
 </p>
 
 
@@ -665,7 +665,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<i>Ak-Kalpak</i>
+<i>Turkmen Telpek / Papakha</i>
 </p>
 
 
@@ -674,7 +674,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<i>Turkmen Telpek / Papakha</i>
+<i>Elechek</i>
 </p>
 
 <p align="center">
@@ -699,7 +699,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<i>Tebetei</i>
+<i>Saparmurat Turkmenbashy Olympic Stadium</i>
 </p>
 
 <p align="center">
@@ -707,7 +707,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<i>Saparmurat Turkmenbashy Olympic Stadium </i>
+<i> Zhetygen </i>
 </p>
 
 <p align="center">
@@ -715,7 +715,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<i>Zhetygen </i>
+<i>Seljuk Star Spectator  </i>
 </p>
 
 <p align="center">
