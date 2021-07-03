@@ -159,8 +159,7 @@ never completed.[^10] On April 26, 1986, the town was covered with heavy
 radioactive emissions and combustion products from the fire at the
 Chernobyl nuclear power plant.
 
-**The Chernobyl nuclear power plant catastrophe and eviction of the
-Pryp'yat'.**
+**The Chernobyl Nuclear Power Plant Catastrophe and Eviction of the Pryp'yat'**
 
 After the explosion, vast areas of the three neighbouring Soviet
 Socialist Republics: Ukrainian, Belarussian and Russian, were
@@ -247,7 +246,7 @@ barbecue in the middle of the courtyards; the area of ​​ Slavutych is
 7.5 squire kilometres and it is often called the last monument to the
 Soviet Union.[^14]
 
-**Pryp'yat' - a ghost town that attracts millions.**
+**Pryp'yat' - A Ghost Town That Attracts Millions**
 
 A story of the inhabited town of Pryp'yat' ended with the explosion of
 the Chornobyl nuclear power plant, at the same time, a story of a ghost
