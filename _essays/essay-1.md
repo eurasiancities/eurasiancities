@@ -96,14 +96,6 @@ Union's Ministry of Energy and Electrification. The plan was titled
 Construction; the General Plan of the Settlement"[^4] (hereinafter --
 The Plan).
 
-<p align="center">
-<img src="/images/alex/image3.jpg" alt="drawing" style="width:300px; text-align:center;"/>
-</p>
-
-<p align="center">
-<i>Source: The truth about Chernobyl? I saw it with my own eyes.</i>
-</p>
-
 
 According to the Plan, all three stages of the town construction were
 determined by the construction phases of the Chornobyl nuclear power
@@ -127,6 +119,14 @@ functional zoning and transportation interchanges. Some scholars even
 argue that for the first time in the entire Soviet Union, the
 construction Plan for Pryp'yat' even provided a network of bike paths in
 the town.[^7]
+
+<p align="center">
+<img src="/images/alex/image3.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: The truth about Chernobyl? I saw it with my own eyes.</i>
+</p>
 
 The second stage of the town construction ought to begin in 1980 and was
 also associated with the commissioning of the nuclear power plant's
@@ -170,7 +170,7 @@ probably the first locality to suffer the most devastating impact of the
 blowout and emissions.
 
 <p align="center">
-<img src="/images/alex/image4.jpg" alt="drawing" style="width:300px; text-align:center;"/>
+<img src="/images/alex/image4.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@ decided to evacuate the entire population of Pryp'yat'. A corresponding
 announcement about the decision was made through the local radio
 broadcasting:
 
-"Attention, dear comrades! The City Council of People's Deputies reports
+> "Attention, dear comrades! The City Council of People's Deputies reports
 that due to the accident at the Chernobyl nuclear power plant, an
 unfavourable radiation situation is developing in the city of Pripyat.
 The necessary measures are being taken by party and Soviet bodies and
@@ -222,6 +222,14 @@ place of residence. The construction was completed in short time, and
 the first residents moved into their apartments already in
 1987-1988.[^13]
 
+<p align="center">
+<img src="/images/alex/image5.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: https://www.facebook.com/GorodSlavutich</i>
+</p>
+
 ![](alex/image6.jpg")The name of the town of Slavutych was
 taken from the ancient Ukrainian name of the Dnipro river. The town was
 planned by thirty-five design institutions from eight Soviet republics;
@@ -249,7 +257,13 @@ area; vegetation grows abundantly and unhindered throughout the city,
 wild animals dominate the forests of the Zone and the abandoned
 buildings of the town of Pryp'yat' and other localities.
 
-![](alex/image7.jpg")
+<p align="center">
+<img src="/images/alex/image6.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: Flickr.com, June 8, 2007</i>
+</p>
 
 However, people did not vanish completely from the town; they have been
 visiting Pryp'yat' for different purposes: as tourists, as journalists,
@@ -269,7 +283,16 @@ number of visitors increased from 8,000 to 70,000, and half of them are
 foreigners. For eight months of 2019, the Exclusion Zone was visited by
 a record number of tourists -- 74,671 people.[^16]
 
-![](alex/image8.jpg")![](alex/image9.jpg")Once, I also visited the town, even before
+<p align="center">
+<img src="/images/alex/image7.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: Alex Yemelianenko</i>
+</p>
+
+
+Once, I also visited the town, even before
 it became mainstream to-go place. In 2011 with a group of Belarusian
 journalists, we drove around the entire Zone, including the Belarusian
 part of the area, where I was surprised to see booming land cultivation,
@@ -283,6 +306,16 @@ of helplessness, and the fact that I was not able to get rid of the
 oppressive state of mind, that at the moment I was staying at the edge
 of the abyss where mankind could disappear forever; I was also comparing
 my feelings when I saw the ancient pyramids
+
+<p align="center">
+<img src="/images/alex/image8.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: Alex Yemelianenko</i>
+</p>
+
+
 ![](alex/image10.jpg")in Egypt with those that I experienced in
 Pryp'yat'. The feelings and emotions were extremely opposite: in Egypt,
 they were positive and exciting, while in
@@ -302,6 +335,15 @@ Pryp'yat' was one of many socialist towns of the USSR, with a clear
 Soviet-style urban design, inhabitants of which enjoyed a prosperous
 socialist life. This essay also analyzes an impact of the Chornobyl
 nuclear power plant explosion on the town's further development.
+
+<p align="center">
+<img src="/images/alex/image9.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: Alex Yemelianenko</i>
+</p>
+
 
 The essay is divided into three subtopics: the first part is about
 foundation of the town in 1970 and its subsequent development; the
