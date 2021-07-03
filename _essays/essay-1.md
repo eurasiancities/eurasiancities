@@ -66,7 +66,7 @@ contemporary Ukraine, Kyiv, and just a few kilometers from the border
 with Belarus. The reason for the town construction precisely on the spot
 was logical as the site already had convenient railway and waterway
 connections. The town actually was named after a local hydronym -- the
-![](/images/alex/image2.jpg)river Pryp'yat' and became the ninth
+![]("/images/alex/image2.jpg")river Pryp'yat' and became the ninth
 *atomograd* (*atomograd* - a town-satellite for only one large
 enterprise, a nuclear power plant) in the Soviet Union.
 
@@ -85,7 +85,7 @@ Construction; the General Plan of the Settlement"[^4] (hereinafter --
 The Plan).
 
 ![Генеральный план поселка --
-Pripyat-City.ru](alex/image3.jpg)
+Pripyat-City.ru](alex/image3.jpg")
 
 According to the Plan, all three stages of the town construction were
 determined by the construction phases of the Chornobyl nuclear power
@@ -121,7 +121,7 @@ workers but also for service staff of the plant, tallying to about 1,700
 people. According to the Plan, at this stage of construction, the rate
 of living space was determined as nine square meters per person.
 
-![](alex/image4.jpg)The third phase of the town construction
+![](alex/image4.jpg")The third phase of the town construction
 was planned to be carried out from 1985 to 1990, simultaneously with the
 completion of the nuclear power plant construction and its launch at
 full capacity. The living space norm was determined at the rate of 12
@@ -151,7 +151,7 @@ Pryp'yat', the nearest settlement to the nuclear power plant**,** was
 probably the first locality to suffer the most devastating impact of the
 blowout and emissions.
 
-![](alex/image5.jpg)
+![](alex/image5.jpg")
 
 On the morning of April 26, 1986, already after the explosion, pupils
 still went to schools, albeit for the last time in the town. The whole
@@ -198,7 +198,7 @@ place of residence. The construction was completed in short time, and
 the first residents moved into their apartments already in
 1987-1988.[^13]
 
-![](alex/image6.jpg)The name of the town of Slavutych was
+![](alex/image6.jpg")The name of the town of Slavutych was
 taken from the ancient Ukrainian name of the Dnipro river. The town was
 planned by thirty-five design institutions from eight Soviet republics;
 each republic had to supply the construction site with labour and raw
@@ -225,7 +225,7 @@ area; vegetation grows abundantly and unhindered throughout the city,
 wild animals dominate the forests of the Zone and the abandoned
 buildings of the town of Pryp'yat' and other localities.
 
-![](alex/image7.jpg)
+![](alex/image7.jpg")
 
 However, people did not vanish completely from the town; they have been
 visiting Pryp'yat' for different purposes: as tourists, as journalists,
@@ -245,7 +245,7 @@ number of visitors increased from 8,000 to 70,000, and half of them are
 foreigners. For eight months of 2019, the Exclusion Zone was visited by
 a record number of tourists -- 74,671 people.[^16]
 
-![](alex/image8.jpg)![](alex/image9.jpg)Once, I also visited the town, even before
+![](alex/image8.jpg")![](alex/image9.jpg")Once, I also visited the town, even before
 it became mainstream to-go place. In 2011 with a group of Belarusian
 journalists, we drove around the entire Zone, including the Belarusian
 part of the area, where I was surprised to see booming land cultivation,
@@ -259,7 +259,7 @@ of helplessness, and the fact that I was not able to get rid of the
 oppressive state of mind, that at the moment I was staying at the edge
 of the abyss where mankind could disappear forever; I was also comparing
 my feelings when I saw the ancient pyramids
-![](alex/image10.jpg)in Egypt with those that I experienced in
+![](alex/image10.jpg")in Egypt with those that I experienced in
 Pryp'yat'. The feelings and emotions were extremely opposite: in Egypt,
 they were positive and exciting, while in
 ![](alex/image11.png)Pryp'yat' emotions were horrifying and
