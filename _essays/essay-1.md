@@ -62,7 +62,7 @@ contemporary Ukraine, Kyiv, and just a few kilometers from the border
 with Belarus. The reason for the town construction precisely on the spot
 was logical as the site already had convenient railway and waterway
 connections. The town actually was named after a local hydronym -- the
-![](alex/image2.jpg)river Pryp'yat' and became the ninth
+![](/alex/image2.jpg)river Pryp'yat' and became the ninth
 *atomograd* (*atomograd* - a town-satellite for only one large
 enterprise, a nuclear power plant) in the Soviet Union.
 
