@@ -43,7 +43,7 @@ scientists from all over the world. Nonetheless, I believe that my work
 might be interesting for a broad global audience because it may simply
 be unfamiliar with the town and its history.
 
-**Planning, construction, and blossoming of the atomograd Pryp'yat'.**
+**Planning, Construction, and Blossoming of the Atomograd Pryp'yat'**
 
 A locality of Pryp'yat' was founded on February 4, 1970,[^2] as a future
 place of residence for employees of a new, one of the largest nuclear
@@ -62,7 +62,7 @@ contemporary Ukraine, Kyiv, and just a few kilometers from the border
 with Belarus. The reason for the town construction precisely on the spot
 was logical as the site already had convenient railway and waterway
 connections. The town actually was named after a local hydronym -- the
-![](media/image2.jpeg)river Pryp'yat' and became the ninth
+![](assets/alex/image2.jpg)river Pryp'yat' and became the ninth
 *atomograd* (*atomograd* - a town-satellite for only one large
 enterprise, a nuclear power plant) in the Soviet Union.
 
@@ -81,7 +81,7 @@ Construction; the General Plan of the Settlement"[^4] (hereinafter --
 The Plan).
 
 ![Генеральный план поселка --
-Pripyat-City.ru](media/image3.jpeg)
+Pripyat-City.ru](assets/alex/image3.jpg)
 
 According to the Plan, all three stages of the town construction were
 determined by the construction phases of the Chornobyl nuclear power
@@ -117,8 +117,7 @@ workers but also for service staff of the plant, tallying to about 1,700
 people. According to the Plan, at this stage of construction, the rate
 of living space was determined as nine square meters per person.
 
-![](media/image4.jpeg){width="3.6934284776902886in"
-height="3.6934284776902886in"}The third phase of the town construction
+![](assets/alex/image4.jpg)The third phase of the town construction
 was planned to be carried out from 1985 to 1990, simultaneously with the
 completion of the nuclear power plant construction and its launch at
 full capacity. The living space norm was determined at the rate of 12
@@ -148,7 +147,7 @@ Pryp'yat', the nearest settlement to the nuclear power plant**,** was
 probably the first locality to suffer the most devastating impact of the
 blowout and emissions.
 
-![](media/image5.jpeg)
+![](assets/alex/image5.jpg)
 
 On the morning of April 26, 1986, already after the explosion, pupils
 still went to schools, albeit for the last time in the town. The whole
@@ -195,7 +194,7 @@ place of residence. The construction was completed in short time, and
 the first residents moved into their apartments already in
 1987-1988.[^13]
 
-![](media/image6.jpeg)The name of the town of Slavutych was
+![](assets/alex/image6.jpg)The name of the town of Slavutych was
 taken from the ancient Ukrainian name of the Dnipro river. The town was
 planned by thirty-five design institutions from eight Soviet republics;
 each republic had to supply the construction site with labour and raw
@@ -222,7 +221,7 @@ area; vegetation grows abundantly and unhindered throughout the city,
 wild animals dominate the forests of the Zone and the abandoned
 buildings of the town of Pryp'yat' and other localities.
 
-![](media/image7.jpeg)
+![](assets/alex/image7.jpg)
 
 However, people did not vanish completely from the town; they have been
 visiting Pryp'yat' for different purposes: as tourists, as journalists,
@@ -242,7 +241,7 @@ number of visitors increased from 8,000 to 70,000, and half of them are
 foreigners. For eight months of 2019, the Exclusion Zone was visited by
 a record number of tourists -- 74,671 people.[^16]
 
-![](media/image8.jpeg)![](media/image9.jpeg)Once, I also visited the town, even before
+![](assets/alex/image8.jpg)![](assets/alex/image9.jpg)Once, I also visited the town, even before
 it became mainstream to-go place. In 2011 with a group of Belarusian
 journalists, we drove around the entire Zone, including the Belarusian
 part of the area, where I was surprised to see booming land cultivation,
@@ -256,17 +255,16 @@ of helplessness, and the fact that I was not able to get rid of the
 oppressive state of mind, that at the moment I was staying at the edge
 of the abyss where mankind could disappear forever; I was also comparing
 my feelings when I saw the ancient pyramids
-![](media/image10.jpeg){width="3.023999343832021in"
-height="4.5359995625546805in"}in Egypt with those that I experienced in
+![](assets/alex/image10.jpg)in Egypt with those that I experienced in
 Pryp'yat'. The feelings and emotions were extremely opposite: in Egypt,
 they were positive and exciting, while in
-![](media/image11.png)Pryp'yat' emotions were horrifying and
+![](assets/alex/image11.png)Pryp'yat' emotions were horrifying and
 disgusting. But, nonetheless, I definitely recommend visiting this
 place; and not only in order to see what could happen with the deserted
 town, but also in order to feel the full depth of misbehaviour with the
 Mother Nature and nuclear energy.
 
-**Conclusion.**
+**Conclusion**
 
 In this essay I made an attempt to examine the history of a unique
 socialist *atomograd* Pryp'yat'. The town with an exceptional history,
@@ -293,9 +291,8 @@ interesting for broad global audience because it may simply be
 unfamiliar with the precisehistory of the town and its quite interesting
 past.
 
-[^1]: Kyoko, Selden (1987). Poems by atomic bomb survivors, Bulletin of
-    > Concerned Asian Scholars, 19:2, 17-23, DOI:
-    > 10.1080/14672715.1987.10409888
+[^1]: Kyoko, Selden (1987). Poems by atomic bomb survivors, Bulletin of Concerned Asian Scholars, 19:2, 17-23, DOI:
+10.1080/14672715.1987.10409888
 
 [^2]:  [51 рік тому заснували Прип\'ять: Як могло виглядати місто без аварії на ЧАЕС.](https://kyiv.depo.ua/ukr/kyiv/51-rik-tomu-zasnuvali-pripyat-yak-moglo-viglyadati-misto-bez-avarii-na-chaes-202102051281069)
 
