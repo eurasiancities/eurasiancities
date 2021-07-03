@@ -628,7 +628,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 ## Images
 
 <p align="center">
-<img src="/images/holden/image001.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image001.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -636,7 +636,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image002.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image002.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -644,7 +644,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image003.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image003.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -652,7 +652,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image004.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image004.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -661,7 +661,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 
 
 <p align="center">
-<img src="/images/holden/image005.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image005.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -670,7 +670,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 
 
 <p align="center">
-<img src="/images/holden/image006.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image006.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -678,7 +678,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image007.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image007.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -687,7 +687,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 
 
 <p align="center">
-<img src="/images/holden/image008.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image008.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -695,7 +695,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image009.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image009.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -703,7 +703,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image010.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image010.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -711,7 +711,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image011.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image011.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -719,7 +719,7 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
-<img src="/images/holden/image012.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/holden/image012.jpg" alt="drawing" style="width:400px; text-align:center;"/>
 </p>
 
 <p align="center">
