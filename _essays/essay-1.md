@@ -57,7 +57,7 @@ I am to call Pryp'yat' a town, just for convenience.
 
 <p align="center">
 <img src="/images/alex/image1.jpg" alt="drawing" style="width:100px; text-align:center;"/>
-<p>
+</p>
 
 Geographically, the town is located in the north of the Kyiv region of
 then-time Ukrainian Soviet Socialist Republic, now independent Ukraine.
@@ -65,10 +65,13 @@ Pryp'yat' stands only about 100 kilometers from the capital city of
 contemporary Ukraine, Kyiv, and just a few kilometers from the border
 with Belarus. The reason for the town construction precisely on the spot
 was logical as the site already had convenient railway and waterway
-connections. The town actually was named after a local hydronym -- the
-![]("/images/alex/image2.jpg")river Pryp'yat' and became the ninth
+connections. The town actually was named after a local hydronym -- the river Pryp'yat' and became the ninth
 *atomograd* (*atomograd* - a town-satellite for only one large
 enterprise, a nuclear power plant) in the Soviet Union.
+
+<p align="center">
+![]("/images/alex/image2.jpg")
+</p>
 
 However, an important question arises about the town's founding: who and
 why came up with an idea to construct a huge nuclear power plant just a
