@@ -732,123 +732,45 @@ the unification of the Kyrgyz and restoration of peace.
 
 Table 1 -- Sports in the World Nomad Games^lxxxiv^
 
-
-|**Competitions in Archery using Traditional Bows**                 |
-------------------------------------------------------------------------
-| Archery using a traditional bow at a distance from Hungary.          |
-------------------------------------------------------------------------
-| Archery using a traditional bow from the Kyrgyz Republic;            |
-------------------------------------------------------------------------
-| Archery using a traditional bow from the Republic of Korea;          |
-------------------------------------------------------------------------
-| Archery using a traditional bow from the Republic of Turkey;         |
-------------------------------------------------------------------------
-| Archery using a traditional bow on horseback from the Kyrgyz         |
-| Republic and the Republic of Turkey;                                 |
-------------------------------------------------------------------------
-|                                                                      |
-------------------------------------------------------------------------
-|**Competitions in Traditional Hunting, Salbuurun**                 |
-------------------------------------------------------------------------
-| Burkut Saluu -- hunting with golden eagles from the Kyrgyz Republic; |
-------------------------------------------------------------------------
-| Dalba -- hunting with hawks from the Kyrgyz Republic                 |
-------------------------------------------------------------------------
-| Taigan Zharysh -- hunting with dogs from the Kyrgyz Republic.        |
-------------------------------------------------------------------------
-|                                                                      |
-------------------------------------------------------------------------
-|**Competitions in Traditional types of Wrestling**                 |
-------------------------------------------------------------------------
-| Alysh -- a traditional type of belt wrestling from the Kyrgyz        |
-| Republic;                                                            |
-------------------------------------------------------------------------
-| Ashyrtmaly Aba Gyureshi -- a type of traditional belt wrestling from |
-| the Republic of Turkey;                                              |
-------------------------------------------------------------------------
-| Goresh -- a type of traditional belt wrestling from Turkmenistan;    |
-------------------------------------------------------------------------
-| Great Nomad Wrestling -- combined freestyle belt wrestling;          |
-------------------------------------------------------------------------
-| Gushtini Milli Kamarbandi -- traditional belt wrestling from         |
-| Tajikistan.                                                          |
-------------------------------------------------------------------------
-| Gushtini Milli Kamarbandi -- traditional wrestling from Republic of  |
-| Tajikistan;                                                          |
-------------------------------------------------------------------------
-| Gyulesh -- traditional wrestling from the Republic of Azerbaijan;    |
-------------------------------------------------------------------------
-| Kazakh Kuresi -- traditional wrestling from the Republic of          |
-| Kazakhstan;                                                          |
-------------------------------------------------------------------------
-| Kurash -- traditional wrestling from the Republic of Uzbekistan;     |
-------------------------------------------------------------------------
-| Kyrgyz Kurosh -- a type of traditional belt wrestling from the       |
-| Kyrgyz Republic;                                                     |
-------------------------------------------------------------------------
-| Mongol Bokh -- traditional wrestling from Mongolia;                  |
-------------------------------------------------------------------------
-| Pahlavani -- traditional wrestling from the Islamic Republic of      |
-| Iran;                                                                |
-------------------------------------------------------------------------
-| Sambo -- traditional wrestling from the Russian Federation;          |
-------------------------------------------------------------------------
-| Ssireum -- traditional belt wrestling from the Republic of Korea;    |
-------------------------------------------------------------------------
-| Sumo -- traditional wrestling from Japan;                            |
-------------------------------------------------------------------------
-|                                                                      |
-------------------------------------------------------------------------
-|**Competitions in Traditional types of Martial Arts**              |
-------------------------------------------------------------------------
-| Armwrestling -- a traditional worldwide sport.                       |
-------------------------------------------------------------------------
-| Mas-wrestling -- traditional competition from the Russian            |
-| Federation;                                                          |
-------------------------------------------------------------------------
-| Tug of War -- a traditional worldwide sport;                         |
-------------------------------------------------------------------------
-|                                                                      |
-------------------------------------------------------------------------
-|**Horse Games**                                                    |
-------------------------------------------------------------------------
-| Er-enish -- a traditional horse game from the Kyrgyz Republic,       |
-| involving two wrestlers on horseback                                 |
-------------------------------------------------------------------------
-| Kok-Boru -- a traditional horse game in the Kyrgyz Republic          |
-------------------------------------------------------------------------
-
--------------------------------------------------------------------
-|**Horse Racing**                                              |
--------------------------------------------------------------------
-| At Chabysh -- races over a long distance                        |
--------------------------------------------------------------------
-| Byshty Jorgo -- pacer racing of three-year-old horses           |
--------------------------------------------------------------------
-| Distance races                                                  |
--------------------------------------------------------------------
-| Flat races                                                      |
--------------------------------------------------------------------
-| Jorgo Salysh -- pacer racing                                    |
--------------------------------------------------------------------
-| Kunan Chabysh -- races of two-year-old horses                   |
--------------------------------------------------------------------
-|                                                                 |
--------------------------------------------------------------------
-|**Traditional Games**                                         |
--------------------------------------------------------------------
-| Ordo -- a traditional game in the Kyrgyz Republic               |
--------------------------------------------------------------------
-|                                                                 |
--------------------------------------------------------------------
-|**Traditional Intellectual Games**                            |
--------------------------------------------------------------------
-| Toguz Korgool -- an intellectual game from the Kyrgyz Republic; |
--------------------------------------------------------------------
-| Mangala -- an intellectual game from the Republic of Turkey;    |
--------------------------------------------------------------------
-| Oware -- an intellectual game from west Africa                  |
--------------------------------------------------------------------
+|     ETHNOSPORT                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------|
+|     Competitions in Archery using   Traditional Bows                                                            |
+|     Archery using a traditional bow at   a distance from Hungary.                                               |
+|     Archery using a traditional bow   from the Kyrgyz Republic;                                                 |
+|     Archery using a traditional bow from the Republic of Korea;                                                 |
+|     Archery using a traditional bow from the Republic of   Turkey;                                              |
+|     Archery using a traditional bow on horseback from   the Kyrgyz Republic and the Republic of Turkey;         |
+|                                                                                                                 |
+|     Competitions in Traditional Hunting, Salbuurun                                                              |
+|     Burkut Saluu – hunting with golden eagles from the Kyrgyz Republic;                                         |
+|     Dalba – hunting with hawks from the Kyrgyz Republic                                                         |
+|     Taigan Zharysh – hunting   with dogs from the   Kyrgyz Republic.                                            |
+|                                                                                                                 |
+|     Competitions in Traditional types   of Wrestling                                                            |
+|     Alysh – a traditional type of belt wrestling from the Kyrgyz Republic;                                      |
+|     Ashyrtmaly Aba Gyureshi – a type of traditional belt wrestling from the Republic of Turkey;                 |
+|     Goresh – a type   of traditional belt wrestling from Turkmenistan;                                          |
+|     Great Nomad Wrestling – combined freestyle belt   wrestling;                                                |
+|     Gushtini Milli Kamarbandi – traditional belt wrestling from Tajikistan.                                     |
+|     Gushtini Milli   Kamarbandi – traditional wrestling from Republic of Tajikistan;                            |
+|     Gyulesh – traditional wrestling from the Republic of Azerbaijan;                                            |
+|     Kazakh Kuresi –   traditional wrestling from   the Republic of Kazakhstan;                                  |
+|     Kurash – traditional wrestling from the Republic of Uzbekistan;                                             |
+|     Kyrgyz Kurosh   – a type of traditional   belt wrestling from   the Kyrgyz Republic;                        |
+|     Mongol Bokh – traditional wrestling from Mongolia;                                                          |
+|     Pahlavani – traditional wrestling from the Islamic Republic of Iran;                                        |
+|     Sambo – traditional wrestling from the Russian Federation;                                                  |
+|     Ssireum – traditional belt wrestling from   the Republic of Korea;                                          |
+|     Sumo – traditional wrestling from Japan;                                                                    |
+|                                                                                                                 |
+|     Competitions in Traditional types   of Martial Arts                                                         |
+|     Armwrestling – a traditional worldwide sport.                                                               |
+|     Mas-wrestling – traditional competition from the Russian Federation;                                        |
+|     Tug of War – a traditional   worldwide sport;                                                               |
+|                                                                                                                 |
+|     Horse Games                                                                                                 |
+|     Er-enish – a traditional horse   game from the   Kyrgyz Republic, involving two wrestlers on   horseback    |
+|     Kok-Boru – a traditional horse game in the   Kyrgyz Republic                                                |
 
 ## Images
 
