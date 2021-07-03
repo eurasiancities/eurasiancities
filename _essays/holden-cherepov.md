@@ -20,7 +20,7 @@ Firstly, I discuss Central Asia's different regional hat styles, worn by the per
 
 During the Opening Ceremonies, the performers wore a variety of traditional clothing styles of Central Asia.[^i] However, the most distinctive part of the clothing was the numerous different types of hats. The clothes and hats showcase unique color schemes, and embroidery patterns, each of the colors and patterns is specific to a different group of nomadic people from Central Asia. The first hat styles are worn by women; the first type of hat is a headscarf. A headscarf is worn by women for cultural reasons in various styles and colours, although sometimes worn for religious reasons, hijab, head covering worn by some Muslim women.[^ii] The second hat featured was the Shokul, worn during wedding ceremonies.[^iii] The Shokulo is a tall conical hat made of fur and felt decorated with feathers and evil eyes to ward off evil spirits
 
--- in comparison, the Shokulo for wealthier families includes jewels in addition to feathers and evil eyes.[^iv] Finally, the Elechek combines the conical hat and the headscarf.[^v] The style and amount of fabric used to showcase the family\'s class.[^vi] Upon passing, the fabric used in the Elechek is turned into a funeral shroud.[^vii] The female tribe leader wears the Elechek, mothers who have married all their children, or the bride the first three days following the wedding. The Shokulo is worn during the wedding ceremony and then wrapped in a headscarf by the bride's mother following the wedding.[^viii^]
+-- in comparison, the Shokulo for wealthier families includes jewels in addition to feathers and evil eyes.[^iv] Finally, the Elechek combines the conical hat and the headscarf.[^v] The style and amount of fabric used to showcase the family\'s class.[^vi] Upon passing, the fabric used in the Elechek is turned into a funeral shroud.[^vii] The female tribe leader wears the Elechek, mothers who have married all their children, or the bride the first three days following the wedding. The Shokulo is worn during the wedding ceremony and then wrapped in a headscarf by the bride's mother following the wedding.[^viii]
 
 Three different types male hats are ern: the Ak-Kalpak, Turkmen Telpek / Papakha, and Tebeti.[^ix] Men wear the Ak-Kalpak as a demonstration of national pride. The Ak-Kalpak is also a part of the Kyrgyz Olympic Uniform.[^x] Young men wear an Ak-Kalpak with a straight brim and a front notch, while older men have a folded-up brim with no notch.[^xi] The second hat type is the Turkmen Telpek / Papakha, an important symbol of Turkmen identity.[^xii] The Turkmen Telpek / Papakha is the traditional hat of the Caucasus and Turkmen worn in the winter and made out of sheep-wool. The last hat is the Suusar Tebeti for females or Tebeti for males, worn during the winter.[^xiii] The Tebeti is a leather cap with a fur base on the exterior.[^xiv] (See Images 1 - 8)
 
@@ -28,13 +28,13 @@ Three different types male hats are ern: the Ak-Kalpak, Turkmen Telpek / Papakha
 
 World Championships have a high level of social prestige for the athlete and host nation; because there is an implied understanding to the international community that hosting these events requires a level of infrastructure only present in countries from certain economic strata.
 
-Therefore, the host nations spare no expense to dazzle the audience with the design of the competition venues. Few World Championships are more important or prestigious than the Olympic Games. Every four years, three billion-plus casual and serious sports fans gather to cheer on every upset, comeback, and world record, toponymically immortalized with the host city.[^xv^]
+Therefore, the host nations spare no expense to dazzle the audience with the design of the competition venues. Few World Championships are more important or prestigious than the Olympic Games. Every four years, three billion-plus casual and serious sports fans gather to cheer on every upset, comeback, and world record, toponymically immortalized with the host city.[^xv]
 
 Turkmenistan hosted the 2017 Asian Indoor Martial Arts Game (AIMAG). Leading up to the event, Turkmenistan built a new multisport athletic complex named after the Olympic Games.[^xvi] Naming the multisport athletic complex after the Olympic Games implies, Turkmenistan has reached the same socio-economic importance as other Olympic host countries. At the same time, they are benefitting from the toponymical prestige associated with hosting an Olympic Games.
 
-The Olympic Complex cost approximately five billion dollars and covered 150- hectares.[^xvii] The Olympic Complex has the competition facilities for the 2017 AIMAG and 2018 World Weightlifting Championships and numerous unnecessary competition venues like the world's largest water-sports complex.[^xviii] To pay for these unnecessary venues, Turkmen have seen a 15 -- 20% drop in their paycheck, reported to western media sources as 'voluntarily deductions' for the 2017 AIMAG.[^xix^]
+The Olympic Complex cost approximately five billion dollars and covered 150- hectares.[^xvii] The Olympic Complex has the competition facilities for the 2017 AIMAG and 2018 World Weightlifting Championships and numerous unnecessary competition venues like the world's largest water-sports complex.[^xviii] To pay for these unnecessary venues, Turkmen have seen a 15 -- 20% drop in their paycheck, reported to western media sources as 'voluntarily deductions' for the 2017 AIMAG.[^xix]
 
-In watching the Opening Ceremonies, I noticed two national symbols, the Seljuk Star design incorporated into the bleachers and the Akhal-Teke horse.[^xx] The spectator bleachers have different colored seats to create a contrasting image of miniature and large Seljuk Stars when not in use. (See Image 9) The Seljuk Star is a symbol dating back to the Seljuq dynasty, the historical ancestors of the Turkmen.[^xxi] The second use was the Akhal-Teke Horse Head adorning Saparmurat Turkmenbashy Olympic Stadium. The Akhal-Teke Horse Head Statue set a new World Record standing 40.05-meters in height (See Image 10).[^xxii] The Akhal-Teke was the preferred breed of horse used by the nomadic ancestors of the Turkmen because of their incredible speed and endurance.[^xxiii] The use of these symbols during the Opening Ceremonies showcases Turkmenistan's depoliticized and dehistoricized identity.[^xxiv^]
+In watching the Opening Ceremonies, I noticed two national symbols, the Seljuk Star design incorporated into the bleachers and the Akhal-Teke horse.[^xx] The spectator bleachers have different colored seats to create a contrasting image of miniature and large Seljuk Stars when not in use. (See Image 9) The Seljuk Star is a symbol dating back to the Seljuq dynasty, the historical ancestors of the Turkmen.[^xxi] The second use was the Akhal-Teke Horse Head adorning Saparmurat Turkmenbashy Olympic Stadium. The Akhal-Teke Horse Head Statue set a new World Record standing 40.05-meters in height (See Image 10).[^xxii] The Akhal-Teke was the preferred breed of horse used by the nomadic ancestors of the Turkmen because of their incredible speed and endurance.[^xxiii] The use of these symbols during the Opening Ceremonies showcases Turkmenistan's depoliticized and dehistoricized identity.[^xxiv]
 
 ##  2017 Universiade in Almaty, Kazakhstan
 
@@ -56,7 +56,7 @@ athletic complex after the Olympic Games, Kazakhstan has taken a
 different approach. After two unsuccessful bids to host the 2014 and
 2022 Winter Olympics, Kazakhstan used the 2017 Universiade to showcase
 their competition facilities, and management can handle the Olympic
-calibre competition.[^xxv^]
+calibre competition.[^xxv]
 
 The 2017 Universiade opens with a group of Kazakh Women playing
 Zhetygen, a seven- string instrument and Daulpaz, a traditional drum,
@@ -73,7 +73,7 @@ interpretation of their surroundings and the creation of their core
 beliefs shown through the battle between love and evil.[^xxxi] The next
 performance was an interpretive bird dance representing the Saka and
 Huna people showing that Kazakh history goes back to ancient
-times.[^xxxii^]
+times.[^xxxii]
 
 Skipping over the Soviet Period, the next historical era begins with
 Nursultan Nazarbayev's reign.[^xxxiii] The final performance contains
@@ -87,11 +87,11 @@ the early development of Kazakhstan's identity after the collapse of the
 Soviet Union, with different dances taking place in a yurt representing
 the unity between the different nationalities who call Kazakhstan
 home.[^xxxv] The different styles of dances taking place in the yurt were
-a symbolic representation of the cultural unity in Kazakhstan.[^xxxvi^]
+a symbolic representation of the cultural unity in Kazakhstan.[^xxxvi]
 Autumn was a representation of Kazakhstan as an emerging center for
 creative arts globally.[^xxxvii] Finally, winter represents Kazakhstan\'s
 recent successes and future ambitions of the younger
-generation.[^xxxviii^]
+generation.[^xxxviii]
 
 There were three reoccurring symbols throughout the performances used to
 promote Kazakh identity: apples, horses, and birds of prey. When the
@@ -106,7 +106,7 @@ Ceremonies, the performances incorporated horses. Horses are native to
 Central Asia and a central part of nomadic culture.[^xli] Birds of prey
 were more a thematic element at the games captured through the motto of
 the Universiade: Spread Your Wings. Other symbolic representations were
-the mascot, a white bird, and a bird-based interpretive dance.[^xlii^]
+the mascot, a white bird, and a bird-based interpretive dance.[^xlii]
 However, I did spot one bird of prey on the arm of a performer, although
 it was brief. The inclusion of birds of prey in Universiade showcase the
 importance of Salbuurun, the traditional hunting style of Central Asia,
@@ -137,12 +137,12 @@ re-ingrains Kazakhstan and Turkmenistan as part of the Soviet Union into
 the audience's mind. Secondly, it is an extension of Gurbanguly and
 Nazarbayev\'s domestic efforts to create a depoliticized and
 dehistoricized national identity relying on the politicization of
-national symbols.[^xlv^]
+national symbols.[^xlv]
 
 ##  2018 World Nomad Games in Cholpon-Ata, Kyrgyzstan
 
 The World Nomad Games were a way to "revive our historical identity,"
-said Kanat Amankulov, Kyrgyzstan's minister for youth and sports.[^xlvi^]
+said Kanat Amankulov, Kyrgyzstan's minister for youth and sports.[^xlvi]
 Through the construction of a hippodrome and the ability to plan,
 develop, and successfully host an entirely new type of international
 competition, Kyrgyzstan showed their revived national identity and
@@ -159,11 +159,11 @@ allows spectators to watch folk music, folk dance, and listen to various
 epics and legends of the nomadic people through oral
 storytelling.[^xlviii] The attendees can also stroll through multiple
 exhibits showcasing the clothing styles, carpets, jewelry, traditional
-housing, et cetera of the nomadic people of Central Asia.[^xlix^]
+housing, et cetera of the nomadic people of Central Asia.[^xlix]
 
 Although not an official part of the Ethno-Cultural Festival, numerous
 nations sold different traditional meals throughout the festival
-grounds.[^l^]
+grounds.[^l]
 
 The World Nomad Games held their Opening Ceremonies in a hippodrome,
 open-air horse racing track.[^li] The open-air environment gave the World
@@ -186,7 +186,7 @@ feats of heroism and unity.[^lvi] (See Annex for Summary of the Epic
 Poem) During the Opening Ceremonies, the theatrical performances of the
 Epic of Manas used stud horses and birds of prey to further showing the
 historical interconnectedness of the nomadic people, Salbuurun,
-traditional hunting style of the nomadic people, and horses. ^lvii^]
+traditional hunting style of the nomadic people, and horses. ^lvii]
 
 There were 37 traditional ethnosports competed in by 2000 athletes from
 77 different countries.[^lviii] The athletes competed in their
@@ -197,14 +197,14 @@ Traditional Games; and Traditional Intellectual Games.[^lix] (See Table
 1) These athletic disciplines best showcase how the
 
 World Nomad Games promote nomadic culture to a global audience; I will
-further explain Salbuurun and the horse-related disciplines.[^lx^]
+further explain Salbuurun and the horse-related disciplines.[^lx]
 
 Salbuurun is the traditional style of long group hunting. Hunting
 parties consisted of the tribe\'s most talented riders. The hunters
 carried bows and arrows along with the best falcons, golden eagles, and
 hunting dogs.[^lxi] At the World Nomad Game, Salbuurun is competed in
 three different disciplines: Burkut Saluu, Dalba, and Taigan Zharysh.
-Burkut Saluu is a two-part competition for hunting with eagles.[^lxii^]
+Burkut Saluu is a two-part competition for hunting with eagles.[^lxii]
 The first part is Undok which is a 200-meter distance race.[^lxiii] The
 bird sits on a perch 200 meters away from the master, who holds a piece
 of bait.[^lxiv] The master has 2 minutes to call the eagle from the
@@ -217,19 +217,19 @@ falcon to hunt a lure made of bird feathers.[^lxvii] The average speed
 and the number of attacks on the lure over the three minutes is the
 winner. Taigan Zharysh is the competition for dog hunting.[^lxviii] A
 horse pulls a fox or hare dummy while three dogs try to catch the
-dummy.[^lxix] The winner is the fastest dog over 350 meters.[^lxx^]
+dummy.[^lxix] The winner is the fastest dog over 350 meters.[^lxx]
 
 Horses compete in two different disciplines: games and traditional
 racing plus horse archery. There are two different types of horse games
 played at the World Nomad Games Er- Enish and Kok-Boru. Er-Enish is
 horseback belt wrestling. The objective of Er-Enish is to be the first
 person to pull their opponent off their horse and have their opponent
-touch the ground.[^lxxi^]
+touch the ground.[^lxxi]
 
 Er-Enish developed from the hand-to-hand combat experience of the
 nomadic people and later intergraded into Kyrgyz Calvary's training
 regiment.[^lxxii] The first mention of Er-Enish is in the Epic of
-Manas.[^lxxiii^]
+Manas.[^lxxiii]
 
 Kok-Boru, translated as Grey Wolf, has multiple different origins
 tales.[^lxxiv] The first comes from the traditional hunting practices of
@@ -253,14 +253,14 @@ goats' death is part of a huge celebration filled with prayers the night
 before the competition.[^lxxx] A Kok-Boru match consists of two teams of
 ten players on horseback; the objective is to get the goat carcass into
 the hole in the opponents\' end; the winner is the team with the most
-points at the matchs' end.[^lxxxi^]
+points at the matchs' end.[^lxxxi]
 
 Lastly, there are various types of horse racing based on the age and
 breed of the horses covering various distances and terrains. Horse
 racing was a part of cultural celebrations and a method of conflict
 resolution between tribes. Horse racing has been a highly social and
 political part of nomadic culture, with mentions of horse racing in the
-Epic of Manas.[^lxxxii^]
+Epic of Manas.[^lxxxii]
 
 ##  Conclusion
 
@@ -312,142 +312,142 @@ identities to a global audience.
 
 ##  Endnotes
 
-[^i] (AKIpress news, 2018, FEATR, 2018, FISU, 2017, Scott, 2018, World Nomad Games 2018)
+[^i]: (AKIpress news, 2018, FEATR, 2018, FISU, 2017, Scott, 2018, World Nomad Games 2018)
 
-[^ii] (Jahnke, 2017)
+[^ii]: (Jahnke, 2017)
 
-[^iii] (Jahnke, 2017)
+[^iii]: (Jahnke, 2017)
 
-[^iv] (Jahnke, 2017)
+[^iv]: (Jahnke, 2017)
 
-[^v] (Jahnke, 2017)
+[^v]: (Jahnke, 2017)
 
 vi (Jahnke, 2017)
 
-[^vii] (Jahnke, 2017)
+[^vii]: (Jahnke, 2017)
 
-[^viii] (Jahnke, 2017)
+[^viii]: (Jahnke, 2017)
 
-[^ix] (AKIpress news, 2018, FEATR, 2018, FISU, 2017, Jahnke, 2017, Scott, 2018, World Nomad Games 2018)
+[^ix]: (AKIpress news, 2018, FEATR, 2018, FISU, 2017, Jahnke, 2017, Scott, 2018, World Nomad Games 2018)
 
-[^x] (Jahnke, 2017)
+[^x]: (Jahnke, 2017)
 
-[^xi] (Jahnke, 2017)
+[^xi]: (Jahnke, 2017)
 
-[^xii] (Jahnke, 2017)
+[^xii]: (Jahnke, 2017)
 
-[^xiii] (Jahnke, 2017)
+[^xiii]: (Jahnke, 2017)
 
-[^xiv] (Jahnke, 2017)
+[^xiv]: (Jahnke, 2017)
 
-[^xv] (Lange, 2020, Nansystar, 2013)
+[^xv]: (Lange, 2020, Nansystar, 2013)
 
-[^xvi] (Tetrault-Farber, 2021)
+[^xvi]: (Tetrault-Farber, 2021)
 
-[^xvii] (Najibullah, 2017, Tetrault-Farber, 2021)
+[^xvii]: (Najibullah, 2017, Tetrault-Farber, 2021)
 
-[^xviii] (Turkmen Petroleum, 2017)
+[^xviii]: (Turkmen Petroleum, 2017)
 
-[^xix] (Najibullah, 2017)
+[^xix]: (Najibullah, 2017)
 
-[^xx] (Scott, 2018)
+[^xx]: (Scott, 2018)
 
-[^xxi] (Grousset, 1970, p. 161, 164) xxii] (Turkmen Petroleum, 2017) xxiii
+[^xxi]: (Grousset, 1970, p. 161, 164) xxii]: (Turkmen Petroleum, 2017) xxiii
 (Horse Canada, 2020)
 
-[^xxiv] (Denison, 2009, p. 1176)
+[^xxiv]: (Denison, 2009, p. 1176)
 
-[^xxv] (FISU, 2017)
+[^xxv]: (FISU, 2017)
 
-[^xxvi] (FISU, 2017, Pretto, 2021)
+[^xxvi]: (FISU, 2017, Pretto, 2021)
 
-[^xxvii] (FISU, 2017)
+[^xxvii]: (FISU, 2017)
 
-[^xxviii] (FISU, 2017)
+[^xxviii]: (FISU, 2017)
 
-[^xxix] (FISU, 2017)
+[^xxix]: (FISU, 2017)
 
-[^xxx] (FISU, 2017)
+[^xxx]: (FISU, 2017)
 
-[^xxxi] (FISU, 2017)
+[^xxxi]: (FISU, 2017)
 
-[^xxxii] (FISU, 2017)
+[^xxxii]: (FISU, 2017)
 
-[^xxxiii] (FISU, 2017)
+[^xxxiii]: (FISU, 2017)
 
-[^xxxiv] (FISU, 2017)
+[^xxxiv]: (FISU, 2017)
 
-[^xxxv] (FISU, 2017)
+[^xxxv]: (FISU, 2017)
 
-[^xxxvi] (FISU, 2017)
+[^xxxvi]: (FISU, 2017)
 
-[^xxxvii] (FISU, 2017)
+[^xxxvii]: (FISU, 2017)
 
-[^xxxviii] (FISU, 2017)
+[^xxxviii]: (FISU, 2017)
 
-[^xxxix] (FISU, 2017)
+[^xxxix]: (FISU, 2017)
 
-[^xl] (UPENN, 2017)
+[^xl]: (UPENN, 2017)
 
-[^xli] (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
+[^xli]: (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
 
-[^xlii] (FISU, 2017)
+[^xlii]: (FISU, 2017)
 
-[^xliii] (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
+[^xliii]: (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
 
-[^xliv] (Denison, 2009, p. 1176)
+[^xliv]: (Denison, 2009, p. 1176)
 
-[^xlv] (Denison, 2009, p. 1176, Imanova & Koch, 2010).
+[^xlv]: (Denison, 2009, p. 1176, Imanova & Koch, 2010).
 
-[^xlvi] (Macfarquhar, 2018)
+[^xlvi]: (Macfarquhar, 2018)
 
-[^xlvii-xlix] (Всемирные Игры Кочевников 2018 - World Nomad Games 2018; FEATR, 2018)
+[^xlvii-xlix]: (Всемирные Игры Кочевников 2018 - World Nomad Games 2018; FEATR, 2018)
 
-[^li] (AKIpress news, 2018)
+[^li]: (AKIpress news, 2018)
 
-[^lii] (FEATR, 2018, AKIpress news, 2018)
+[^lii]: (FEATR, 2018, AKIpress news, 2018)
 
-[^liii] (Micallef, 2021)
+[^liii]: (Micallef, 2021)
 
-[^liv] (Hays, 2016)
+[^liv]: (Hays, 2016)
 
-[^lv] (Hays, 2016)
+[^lv]: (Hays, 2016)
 
-[^lvi] (Hays, 2016)
+[^lvi]: (Hays, 2016)
 
-[^lvii] (AKIpress news, 2018)
+[^lvii]: (AKIpress news, 2018)
 
-[^lviii-lxxix] (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
+[^lviii-lxxix]: (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
 
-[^lxxx] (Pedaling Pictures, 2015)
+[^lxxx]: (Pedaling Pictures, 2015)
 
-[^lxxxi] (Pedaling Pictures, 2015)
+[^lxxxi]: (Pedaling Pictures, 2015)
 
-[^lxxxii] (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
+[^lxxxii]: (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
 
-^lxxxiii]] (Hays, 2016)
+^lxxxiii]]: (Hays, 2016)
 
-[^lxxxiv] (*World Nomad Games 2018*)
+[^lxxxiv]: (*World Nomad Games 2018*)
 
-[^lxxxv] (Jahnke, 2016)
+[^lxxxv]: (Jahnke, 2016)
 
-[^lxxxvi] (Jahnke, 2016)
+[^lxxxvi]: (Jahnke, 2016)
 
-[^lxxxvii] (Jahnke, 2016)
+[^lxxxvii]: (Jahnke, 2016)
 
-[^lxxxviii] (Jahnke, 2016)
+[^lxxxviii]: (Jahnke, 2016)
 
-[^lxxxix] (Jahnke, 2016)
+[^lxxxix]: (Jahnke, 2016)
 
-[^xc] (Jahnke, 2016)
+[^xc]: (Jahnke, 2016)
 
-[^xci] (Jahnke, 2016)
+[^xci]: (Jahnke, 2016)
 
-[^xcii] (Jahnke, 2016)
+[^xcii]: (Jahnke, 2016)
 
-[^xciii] (Barlett, 2017)
+[^xciii]: (Barlett, 2017)
 
-[^xciv] (tensaform) xcv (Shutterstock) xcvi (FISU, 2017)
+[^xciv]: (tensaform) xcv (Shutterstock) xcvi (FISU, 2017)
 
 ##  Bibliography
 
@@ -573,7 +573,7 @@ tensaform. (n.d.). Saparmurat Turkmenbashy Olympic Stadium. tensaform. <http://w
 ## Annex
 
 
-Annex 1 -- Summary of the Epic of Manas^lxxxiii^]
+Annex 1 -- Summary of the Epic of Manas^lxxxiii]
 
 The legends and folk stories are set in the period when the Kyrgyz
 were exiled from their native lands in the Lake Baikal area of
@@ -609,7 +609,7 @@ the unification of the Kyrgyz and restoration of peace.
 
 ## Tables
 
-Table 1 -- Sports in the World Nomad Games^lxxxiv^]
+Table 1 -- Sports in the World Nomad Games^lxxxiv]
 
 |     ETHNOSPORT                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------|
@@ -653,53 +653,53 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^]
 
 ## Images
 
-Image 1. -- Headscarf^lxxxv^]
+Image 1. -- Headscarf^lxxxv]
 
 ![](media/image1.jpeg){width="2.688794838145232in" height="2.0166666666666666in"}
 
-Image 2. - Shokulo^lxxxvi^]
+Image 2. - Shokulo^lxxxvi]
 
 > ![](media/image2.jpeg){width="1.9985706474190725in" height="3.29in"}
 
-Image 3. - Elechek^lxxxvii^]
+Image 3. - Elechek^lxxxvii]
 
-Image 4. - Elechek^lxxxviii^]
+Image 4. - Elechek^lxxxviii]
 
 ![](media/image3.jpeg){width="2.0174114173228346in" height="2.6875in"}
 
-Image 5. -- Ak-Kalpak^lxxxix^]
+Image 5. -- Ak-Kalpak^lxxxix]
 
 ![](media/image4.jpeg){width="3.0282753718285216in"
 height="1.7004166666666667in"}
 
 ![](media/image5.jpeg){width="2.9991666666666665in"
-height="1.9943055555555556in"}Image 6. -- Turkmen Telpek / Papakha^xc^]
+height="1.9943055555555556in"}Image 6. -- Turkmen Telpek / Papakha^xc]
 
 ![](media/image6.jpeg){width="3.2430008748906385in"
 height="1.9949989063867017in"}
 
-Image 7. -- Suusar Tebetei^xci^]
+Image 7. -- Suusar Tebetei^xci]
 
 ![](media/image7.jpeg){width="1.9895363079615047in"
 height="2.957082239720035in"}
 
-Image 8. - Tebetei^xcii^]
+Image 8. - Tebetei^xcii]
 
 ![](media/image8.jpeg){width="2.6353226159230094in" height="2.19in"}
 
-Image 9. -- Seljuk Star Spectator Bleachers^xciii^]
+Image 9. -- Seljuk Star Spectator Bleachers^xciii]
 
-Image 10. -- Saparmurat Turkmenbashy Olympic Stadium^xciv^]
+Image 10. -- Saparmurat Turkmenbashy Olympic Stadium^xciv]
 
 ![](media/image9.jpeg){width="2.9866447944007in"
 height="1.755832239720035in"}
 
-Image 11. - Zhetygen^xcv^]
+Image 11. - Zhetygen^xcv]
 
 ![](media/image10.jpeg){width="2.7134765966754157in"
 height="2.0349989063867016in"}
 
-Image 12. -- Futuristic Performance^xcvi^]
+Image 12. -- Futuristic Performance^xcvi]
 
 ![](media/image11.jpeg){width="2.9993055555555554in"
 height="1.6861111111111111in"}![](media/image12.jpeg){width="2.965177165354331in"
