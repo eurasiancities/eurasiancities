@@ -632,7 +632,15 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
+<i>Headscarf</i>
+</p>
+
+<p align="center">
 <img src="/images/holden/image002.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Shokulo</i>
 </p>
 
 <p align="center">
@@ -640,15 +648,33 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
+<i>Elechek</i>
+</p>
+
+<p align="center">
 <img src="/images/holden/image004.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
+
+<p align="center">
+<i>Elechek</i>
+</p>
+
 
 <p align="center">
 <img src="/images/holden/image005.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
+<i>Ak-Kalpak</i>
+</p>
+
+
+<p align="center">
 <img src="/images/holden/image006.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Turkmen Telpek / Papakha</i>
 </p>
 
 <p align="center">
@@ -656,7 +682,16 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
+<i>Suusar Tebetei</i>
+</p>
+
+
+<p align="center">
 <img src="/images/holden/image008.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Tebetei</i>
 </p>
 
 <p align="center">
@@ -664,7 +699,15 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
+<i>Tebetei</i>
+</p>
+
+<p align="center">
 <img src="/images/holden/image010.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Saparmurat Turkmenbashy Olympic Stadium </i>
 </p>
 
 <p align="center">
@@ -672,5 +715,15 @@ Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 </p>
 
 <p align="center">
+<i>Zhetygen </i>
+</p>
+
+<p align="center">
 <img src="/images/holden/image012.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
+
+<p align="center">
+<i>Futuristic Performance </i>
+</p>
+
+## References
