@@ -304,7 +304,13 @@ streets and abandoned buildings of Pryp'yat'. I do remember that feeling
 of helplessness, and the fact that I was not able to get rid of the
 oppressive state of mind, that at the moment I was staying at the edge
 of the abyss where mankind could disappear forever; I was also comparing
-my feelings when I saw the ancient pyramids
+my feelings when I saw the ancient pyramids in Egypt with those that I experienced in
+Pryp'yat'. The feelings and emotions were extremely opposite: in Egypt,
+they were positive and exciting, while in Pryp'yat' emotions were horrifying and
+disgusting. But, nonetheless, I definitely recommend visiting this
+place; and not only in order to see what could happen with the deserted
+town, but also in order to feel the full depth of misbehaviour with the
+Mother Nature and nuclear energy.
 
 <p align="center">
 <img src="/images/alex/image8.jpg" alt="drawing" style="width:600px; text-align:center;"/>
@@ -315,14 +321,6 @@ my feelings when I saw the ancient pyramids
 </p>
 
 
-![](alex/image10.jpg")in Egypt with those that I experienced in
-Pryp'yat'. The feelings and emotions were extremely opposite: in Egypt,
-they were positive and exciting, while in
-![](alex/image11.png)Pryp'yat' emotions were horrifying and
-disgusting. But, nonetheless, I definitely recommend visiting this
-place; and not only in order to see what could happen with the deserted
-town, but also in order to feel the full depth of misbehaviour with the
-Mother Nature and nuclear energy.
 
 **Conclusion**
 

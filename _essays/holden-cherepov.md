@@ -575,41 +575,15 @@ tensaform. (n.d.). Saparmurat Turkmenbashy Olympic Stadium. tensaform. <http://w
 
 Annex 1 -- Summary of the Epic of Manas^lxxxiii]
 
-The legends and folk stories are set in the period when the Kyrgyz
-were exiled from their native lands in the Lake Baikal area of
-present-day Russia by Chinese warriors and moved to the Altai
-territory, where present-day Russia, Kazakhstan, Mongolia and China
-all come together. It was here that Manas was born. From an early age
-he displayed extraordinary abilities and feats of strength and got
-himself into various scrapes due to his propensity to mischief and
-generosity. His fame spread far beyond the Altai. When the Chinese
-emperor heard about Manas's strengths sent an army of warriors to kill
-him, Manas managed not only to smash the Chinese, he united the Kyrgyz
-and regained their native lands. Thus, for the Kyrgyz people Manas is
-the legendary hero who united all Kyrgyz tribes to win back their
-motherland.
+The legends and folk stories are set in the period when the Kyrgyz were exiled from their native lands in the Lake Baikal area of present-day Russia by Chinese warriors and moved to the Altai territory, where present-day Russia, Kazakhstan, Mongolia and China all come together. It was here that Manas was born. From an early age he displayed extraordinary abilities and feats of strength and got himself into various scrapes due to his propensity to mischief and generosity. His fame spread far beyond the Altai. When the Chinese emperor heard about Manas's strengths sent an army of warriors to kill him, Manas managed not only to smash the Chinese, he united the Kyrgyz and regained their native lands. Thus, for the Kyrgyz people Manas is the legendary hero who united all Kyrgyz tribes to win back their motherland.
 
-Manas's son Semetey was a great warrior too. After Manas death, his
-wife Kanykei and with her son moved back with her parents. Semetey
-grew up not knowing that he was a son of a legendary hero. Once he
-realized the truth about his origin, Semetey decided to regain Kyrgyz
-lands and avenge the death of his father. Semetey and his friends
-performed many acts of bravery. But his enemies conspired against him
-and eventually prevailed. The second part of Kyrgyz Epic Trilogy ends
-with Semetey's disappearance.
+Manas's son Semetey was a great warrior too. After Manas death, his wife Kanykei and with her son moved back with her parents. Semetey grew up not knowing that he was a son of a legendary hero. Once he realized the truth about his origin, Semetey decided to regain Kyrgyz lands and avenge the death of his father. Semetey and his friends performed many acts of bravery. But his enemies conspired against him and eventually prevailed. The second part of Kyrgyz Epic Trilogy ends with Semetey's disappearance.
 
-The Manas' third part "Seytek" deals with Kyrgyz's struggle against
-local enemies. It is narrates the struggles and adventures of the
-Seytek, grandson of Manas and is a continuation of the narrative
-unveiled in previous parts. The story includes Seytek's upbringing in
-the camp of his father's enemy; his unawareness of his origin; his
-maturation into a great hero; the discovery of the truth about his
-origin; the expulsion of his enemies; his return to his people; and
-the unification of the Kyrgyz and restoration of peace.
+The Manas' third part "Seytek" deals with Kyrgyz's struggle against local enemies. It is narrates the struggles and adventures of the Seytek, grandson of Manas and is a continuation of the narrative unveiled in previous parts. The story includes Seytek's upbringing in the camp of his father's enemy; his unawareness of his origin; his maturation into a great hero; the discovery of the truth about his origin; the expulsion of his enemies; his return to his people; and the unification of the Kyrgyz and restoration of peace.
 
 ## Tables
 
-Table 1 -- Sports in the World Nomad Games^lxxxiv]
+Table 1 -- Sports in the World Nomad Games [^lxxxiv]
 
 |     ETHNOSPORT                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------|
@@ -653,54 +627,50 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv]
 
 ## Images
 
-Image 1. -- Headscarf^lxxxv]
+<p align="center">
+<img src="/images/holden/image001.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-![](media/image1.jpeg){width="2.688794838145232in" height="2.0166666666666666in"}
+<p align="center">
+<img src="/images/holden/image002.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-Image 2. - Shokulo^lxxxvi]
+<p align="center">
+<img src="/images/holden/image003.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-> ![](media/image2.jpeg){width="1.9985706474190725in" height="3.29in"}
+<p align="center">
+<img src="/images/holden/image004.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-Image 3. - Elechek^lxxxvii]
+<p align="center">
+<img src="/images/holden/image005.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-Image 4. - Elechek^lxxxviii]
+<p align="center">
+<img src="/images/holden/image006.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-![](media/image3.jpeg){width="2.0174114173228346in" height="2.6875in"}
+<p align="center">
+<img src="/images/holden/image007.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-Image 5. -- Ak-Kalpak^lxxxix]
+<p align="center">
+<img src="/images/holden/image008.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-![](media/image4.jpeg){width="3.0282753718285216in"
-height="1.7004166666666667in"}
+<p align="center">
+<img src="/images/holden/image009.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-![](media/image5.jpeg){width="2.9991666666666665in"
-height="1.9943055555555556in"}Image 6. -- Turkmen Telpek / Papakha^xc]
+<p align="center">
+<img src="/images/holden/image010.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-![](media/image6.jpeg){width="3.2430008748906385in"
-height="1.9949989063867017in"}
+<p align="center">
+<img src="/images/holden/image011.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
 
-Image 7. -- Suusar Tebetei^xci]
-
-![](media/image7.jpeg){width="1.9895363079615047in"
-height="2.957082239720035in"}
-
-Image 8. - Tebetei^xcii]
-
-![](media/image8.jpeg){width="2.6353226159230094in" height="2.19in"}
-
-Image 9. -- Seljuk Star Spectator Bleachers^xciii]
-
-Image 10. -- Saparmurat Turkmenbashy Olympic Stadium^xciv]
-
-![](media/image9.jpeg){width="2.9866447944007in"
-height="1.755832239720035in"}
-
-Image 11. - Zhetygen^xcv]
-
-![](media/image10.jpeg){width="2.7134765966754157in"
-height="2.0349989063867016in"}
-
-Image 12. -- Futuristic Performance^xcvi]
-
-![](media/image11.jpeg){width="2.9993055555555554in"
-height="1.6861111111111111in"}![](media/image12.jpeg){width="2.965177165354331in"
-height="1.4154166666666668in"}
+<p align="center">
+<img src="/images/holden/image012.jpg" alt="drawing" style="width:600px; text-align:center;"/>
+</p>
