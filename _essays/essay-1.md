@@ -258,7 +258,7 @@ wild animals dominate the forests of the Zone and the abandoned
 buildings of the town of Pryp'yat' and other localities.
 
 <p align="center">
-<img src="/images/alex/image6.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+<img src="/images/alex/image6.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -284,7 +284,7 @@ foreigners. For eight months of 2019, the Exclusion Zone was visited by
 a record number of tourists -- 74,671 people.[^16]
 
 <p align="center">
-<img src="/images/alex/image7.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+<img src="/images/alex/image7.jpg" alt="drawing" style="width:500px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -308,7 +308,7 @@ of the abyss where mankind could disappear forever; I was also comparing
 my feelings when I saw the ancient pyramids
 
 <p align="center">
-<img src="/images/alex/image8.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+<img src="/images/alex/image8.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -337,7 +337,7 @@ socialist life. This essay also analyzes an impact of the Chornobyl
 nuclear power plant explosion on the town's further development.
 
 <p align="center">
-<img src="/images/alex/image9.jpg" alt="drawing" style="width:400px; text-align:center;"/>
+<img src="/images/alex/image9.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -361,8 +361,7 @@ interesting for broad global audience because it may simply be
 unfamiliar with the precisehistory of the town and its quite interesting
 past.
 
-[^1]: Kyoko, Selden (1987). Poems by atomic bomb survivors, Bulletin of Concerned Asian Scholars, 19:2, 17-23, DOI:
-10.1080/14672715.1987.10409888
+[^1]: Kyoko, Selden (1987). Poems by atomic bomb survivors, Bulletin of Concerned Asian Scholars, 19:2, 17-23, DOI: 10.1080/14672715.1987.10409888
 
 [^2]:  [51 рік тому заснували Прип\'ять: Як могло виглядати місто без аварії на ЧАЕС.](https://kyiv.depo.ua/ukr/kyiv/51-rik-tomu-zasnuvali-pripyat-yak-moglo-viglyadati-misto-bez-avarii-na-chaes-202102051281069)
 
