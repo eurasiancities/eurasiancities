@@ -55,8 +55,7 @@ decade later status of a town was granted to Pryp'yat' by authorities of
 the Ukrainian Soviet Socialist Republic[^3], thus further in the essay,
 I am to call Pryp'yat' a town, just for convenience.
 
-{% include image.html url="/images/alex/image1.jpg" description="My cat, Robert Downey Jr." %}
-
+<img src="/images/alex/image1.jpg" alt="drawing" style="width:100px; text-align:center;"/>
 
 Geographically, the town is located in the north of the Kyiv region of
 then-time Ukrainian Soviet Socialist Republic, now independent Ukraine.
