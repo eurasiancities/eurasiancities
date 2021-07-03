@@ -57,7 +57,10 @@ I am to call Pryp'yat' a town, just for convenience.
 
 <p align="center">
 <img src="/images/alex/image1.jpg" alt="drawing" style="width:100px; text-align:center;"/>
-<em>Source: Припять – город призрак.</em>
+</p>
+
+<p align="center">
+<i>Source: Припять – город призрак.</i>
 </p>
 
 Geographically, the town is located in the north of the Kyiv region of
