@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International Sporting Events: the Intersection of Culture, and Politics
+title: International Sporting Events\: the Intersection of Culture, and Politics
 author: Holden Cherepov
 date: Jul 3 2021 14:17
 ---
