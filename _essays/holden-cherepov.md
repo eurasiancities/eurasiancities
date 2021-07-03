@@ -6,8 +6,8 @@ date: Jul 3 2021 14:17
 ---
 
 
-Introduction
-================
+## Introduction
+
 
 International sporting events are not just athletic competitions but
 also ideological competitions between the athletes' nations' cultural,
@@ -42,8 +42,8 @@ Ata, Kyrgyzstan, designed to promote the nomadic lifestyle, culture and
 tradition of the various nomadic people of Central Asia to a global
 audience.
 
-Traditional Hats
-================
+##  Traditional Hats
+
 
 During the Opening Ceremonies, the performers wore a variety of
 traditional clothing styles of Central Asia.^i^ However, the most
@@ -83,8 +83,7 @@ sheep-wool. The last hat is the Suusar Tebeti for females or Tebeti for
 males, worn during the winter.^xiii^ The Tebeti is a leather cap with a
 fur base on the exterior.^xiv^ (See Images 1 - 8)
 
-Olympic Complex in Ashgabat, Turkmenistan
-=========================================
+##  Olympic Complex in Ashgabat, Turkmenistan
 
 World Championships have a high level of social prestige for the athlete
 and host nation; because there is an implied understanding to the
@@ -129,8 +128,8 @@ Turkmen because of their incredible speed and endurance.^xxiii^ The use
 of these symbols during the Opening Ceremonies showcases Turkmenistan's
 depoliticized and dehistoricized identity.^xxiv^
 
-2017 Universiade in Almaty, Kazakhstan
-======================================
+##  2017 Universiade in Almaty, Kazakhstan
+
 
 Most Opening Ceremonies follow a traditional format of small opening
 performances followed by the entrance of the dignitaries and
@@ -232,8 +231,7 @@ Nazarbayev\'s domestic efforts to create a depoliticized and
 dehistoricized national identity relying on the politicization of
 national symbols.^xlv^
 
-2018 World Nomad Games in Cholpon-Ata, Kyrgyzstan
-=================================================
+##  2018 World Nomad Games in Cholpon-Ata, Kyrgyzstan
 
 The World Nomad Games were a way to "revive our historical identity,"
 said Kanat Amankulov, Kyrgyzstan's minister for youth and sports.^xlvi^
@@ -356,8 +354,7 @@ resolution between tribes. Horse racing has been a highly social and
 political part of nomadic culture, with mentions of horse racing in the
 Epic of Manas.^lxxxii^
 
-Conclusion
-==========
+##  Conclusion
 
 These Opening Ceremonies show how Central Asian Countries have used the
 intersectionality of politics, culture and international sporting events
@@ -405,8 +402,7 @@ disciplines as all of the Opening Ceremonies have used salbuurun and
 horses to showcase the linkages between their pre and post-Soviet
 identities to a global audience.
 
-Endnotes
-========
+##  Endnotes
 
 i (AKIpress news, 2018, FEATR, 2018, FISU, 2017, Scott, 2018, World
 Nomad Games 2018)
@@ -574,121 +570,118 @@ xc (Jahnke, 2016)
 >
 > xciv (tensaform) xcv (Shutterstock) xcvi (FISU, 2017)
 
-Bibliography
-============
+##  Bibliography
 
-> AKIpress news. (n.d.). Церемония открытия Всемирных игр кочевников -
-> World Nomad Games. Opening ceremony. Youtube. broadcast.
-> https:/[/www.youtube.com/watch?v=qOPiAH](http://www.youtube.com/watch?v=qOPiAHeeox0)e[eox0.](http://www.youtube.com/watch?v=qOPiAHeeox0)
->
-> Denison, M. (2009). The Art of the Impossible: Political Symbolism,
-> and the Creation of National Identity and Collective Memory in
-> Post-Soviet Turkmenistan. Europe-Asia Studies, 61(7), 1167--1187.
-> https://doi.org/10.1080/09668130903068715
->
-> FEATR. (n.d.). THE WORLD NOMAD GAMES (Kyrgyzstan Nomad Olympics).
-> Youtube. broadcast.
-> https://[www.youtube.com/watch?v=wPNVmepL\_U0.](http://www.youtube.com/watch?v=wPNVmepL_U0)
->
-> FISU. (n.d.). Opening Ceremony Full HD official Replay- 28th Winter
-> Universiade 2017, Almaty, Kazakhstan. Youtube. broadcast.
-> https:/[/www.youtube.com/watch?v=yTl7jQb9z](http://www.youtube.com/watch?v=yTl7jQb9zrA&t=7335s)r[A&t=7335s.](http://www.youtube.com/watch?v=yTl7jQb9zrA&t=7335s)
->
-> Grousset, R. (1970). The Empire of the Steppes: A History of Central
-> Asia. Britania Raya: Rutgers University Press.
->
-> Hays, J. (2016). MANAS. Facts and Details.
-> <http://factsanddetails.com/central->
-> asia/Kyrgyzstan/sub8\_5c/entry-4772.html.
->
-> Horse Canada. (2020, September 23). *Akhal-Teke*. Horse Canada.
-> https://horse- canada.com/breeds/akhal-teke/.
->
-> Imanova, G. presentation on Koch, N. (2010). The monumental and the
-> miniature: imagining 'modernity' in Astana. *Social & Cultural
-> Geography*, *11*(8), 769--787.
-> https://doi.org/10.1080/14649365.2010.521854
->
-> Jahnke, M. (2017, May 3). Hang On To Your Hats: An Exhaustive Guide to
-> Central Asian Headgear. Monday Bazaar: A Travel Blog.
-> https://mondaybazaarblog.com/2016/05/27/hang-on-to-your-hats-an-exhaustive-
-> guide-to-central-asian-headgear/.
->
-> Lange, D. (2020, November 26). Olympic Summer Games: global broadcast
-> audience 2008- 2016. Statista.
-> https:/[/www.statista.com/statisti](http://www.statista.com/statistics/280502/total-number-of-tv-viewers-)c[s/280502/total-number-of-tv-viewers-](http://www.statista.com/statistics/280502/total-number-of-tv-viewers-)
-> of-olympic-summer-games-worldwide/.
->
-> Macfarquhar, N. (2018, September 16). *Horseback Wrestling. Bone
-> Tossing. Dead Goat Polo. Let the Nomad Games Begin!* The New York
-> Times.
-> https:/[/www.nytimes.com/2018/09/15/world/](http://www.nytimes.com/2018/09/15/world/asia/kyrgyzstan-world-nomad-)a[sia/kyrgyzstan-world-nomad-](http://www.nytimes.com/2018/09/15/world/asia/kyrgyzstan-world-nomad-)
-> games.html.
->
-> Micallef, R. (2021). *Kyrgyzstan*. World Epics.
-> https://edblogs.columbia.edu/worldepics/project/manas/.
->
-> Najibullah, F. (2017, May 15). Turkmenistan Gets Low Scores For
-> Olympic-Sized Sports- Infrastructure Investment.
-> RadioFreeEurope/RadioLiberty.
-> https:/[/www.rf](http://www.rferl.org/a/turkmenistan-aimag-infrastructure-investment-sports-white-)e[rl.org/a/turkmenistan-aimag-infrastructure-investment-sports-white-](http://www.rferl.org/a/turkmenistan-aimag-infrastructure-investment-sports-white-)
-> elephant/28489622.html.
->
-> Nansystar. (2013, May 2). Why Are The Olympic Games So Important To
-> Many of Us?
->
-> Nansy Damianova.
-> https://nansydamianova.wordpress.com/2013/05/02/why-are-the-
-> olympic-games-so-important-to-many-of-us/.
->
-> Pedaling Pictures. (n.d.). Kok-Boru: A Brief Introduction. YouTube.
-> broadcast.
-> https:/[/www.youtube.com/watch?v=lH](http://www.youtube.com/watch?v=lHFrU53KUrg)F[rU53KUrg.](http://www.youtube.com/watch?v=lHFrU53KUrg)
->
-> Pretto, R. (2021, March 15). Traditional musical instruments of
-> Kazakhstan. Travel Tomorrow.
-> https://traveltomorrow.com/traditional-musical-instruments-of-
-> kazakhstan/.
->
-> Scott. (n.d.). Ashgabat 2018 - IWF World Championships - Opening
-> Ceremony. Youtube. broadcast.
-> https://[www.youtube.com/watch?v=kuZH5P90tzI&list=WL&index=19.](http://www.youtube.com/watch?v=kuZH5P90tzI&list=WL&index=19)
->
-> Tetrault-Farber, G. (2021, June 14). Turkmenistan Outs Itself as
-> Unlikely Sporting Mecca. The Moscow Times.
-> https://[www.themoscowtimes.com/2015/04/06/turkmenistan-](http://www.themoscowtimes.com/2015/04/06/turkmenistan-)
-> outs-itself-as-unlikely-sporting-mecca-a45508.
->
-> Turkmen Petroleum. (2017, August 22). Two facilities of Ashgabat's
-> Olympic village get into Guinness World Records. Turkmen Petroleum.
-> https://turkmenpetroleum.com/en/2017/08/22/two-facilities-of-ashgabats-olympic-
-> village-get-into-guinness-world-records/.
->
-> UPENN. (2017, November 17). The Last Wild Apple Forests, Kazakhstan.
-> Russian and East European Studies.
-> https://rees.sas.upenn.edu/about/spotlight/last-wild-apple-forests-
-> kazakhstan.
->
-> World Nomad Games 2018. Всемирные Игры Кочевников 2018 - World Nomad
-> Games 2018. (n.d.).
-> [http://worldnomadgames.com/en/.](http://worldnomadgames.com/en/)
+AKIpress news. (n.d.). Церемония открытия Всемирных игр кочевников -
+World Nomad Games. Opening ceremony. Youtube. broadcast.
+https:/[/www.youtube.com/watch?v=qOPiAH](http://www.youtube.com/watch?v=qOPiAHeeox0)e[eox0.](http://www.youtube.com/watch?v=qOPiAHeeox0)
 
-Annex
------
+Denison, M. (2009). The Art of the Impossible: Political Symbolism,
+and the Creation of National Identity and Collective Memory in
+Post-Soviet Turkmenistan. Europe-Asia Studies, 61(7), 1167--1187.
+https://doi.org/10.1080/09668130903068715
+
+FEATR. (n.d.). THE WORLD NOMAD GAMES (Kyrgyzstan Nomad Olympics).
+Youtube. broadcast.
+https://[www.youtube.com/watch?v=wPNVmepL\_U0.](http://www.youtube.com/watch?v=wPNVmepL_U0)
+
+FISU. (n.d.). Opening Ceremony Full HD official Replay- 28th Winter
+Universiade 2017, Almaty, Kazakhstan. Youtube. broadcast.
+https:/[/www.youtube.com/watch?v=yTl7jQb9z](http://www.youtube.com/watch?v=yTl7jQb9zrA&t=7335s)r[A&t=7335s.](http://www.youtube.com/watch?v=yTl7jQb9zrA&t=7335s)
+
+Grousset, R. (1970). The Empire of the Steppes: A History of Central
+Asia. Britania Raya: Rutgers University Press.
+
+Hays, J. (2016). MANAS. Facts and Details.
+<http://factsanddetails.com/central->
+asia/Kyrgyzstan/sub8\_5c/entry-4772.html.
+
+Horse Canada. (2020, September 23). *Akhal-Teke*. Horse Canada.
+https://horse- canada.com/breeds/akhal-teke/.
+
+Imanova, G. presentation on Koch, N. (2010). The monumental and the
+miniature: imagining 'modernity' in Astana. *Social & Cultural
+Geography*, *11*(8), 769--787.
+https://doi.org/10.1080/14649365.2010.521854
+
+Jahnke, M. (2017, May 3). Hang On To Your Hats: An Exhaustive Guide to
+Central Asian Headgear. Monday Bazaar: A Travel Blog.
+https://mondaybazaarblog.com/2016/05/27/hang-on-to-your-hats-an-exhaustive-
+guide-to-central-asian-headgear/.
+
+Lange, D. (2020, November 26). Olympic Summer Games: global broadcast
+audience 2008- 2016. Statista.
+https:/[/www.statista.com/statisti](http://www.statista.com/statistics/280502/total-number-of-tv-viewers-)c[s/280502/total-number-of-tv-viewers-](http://www.statista.com/statistics/280502/total-number-of-tv-viewers-)
+of-olympic-summer-games-worldwide/.
+
+Macfarquhar, N. (2018, September 16). *Horseback Wrestling. Bone
+Tossing. Dead Goat Polo. Let the Nomad Games Begin!* The New York
+Times.
+https:/[/www.nytimes.com/2018/09/15/world/](http://www.nytimes.com/2018/09/15/world/asia/kyrgyzstan-world-nomad-)a[sia/kyrgyzstan-world-nomad-](http://www.nytimes.com/2018/09/15/world/asia/kyrgyzstan-world-nomad-)
+games.html.
+
+Micallef, R. (2021). *Kyrgyzstan*. World Epics.
+https://edblogs.columbia.edu/worldepics/project/manas/.
+
+Najibullah, F. (2017, May 15). Turkmenistan Gets Low Scores For
+Olympic-Sized Sports- Infrastructure Investment.
+RadioFreeEurope/RadioLiberty.
+https:/[/www.rf](http://www.rferl.org/a/turkmenistan-aimag-infrastructure-investment-sports-white-)e[rl.org/a/turkmenistan-aimag-infrastructure-investment-sports-white-](http://www.rferl.org/a/turkmenistan-aimag-infrastructure-investment-sports-white-)
+elephant/28489622.html.
+
+Nansystar. (2013, May 2). Why Are The Olympic Games So Important To
+Many of Us?
+
+Nansy Damianova.
+https://nansydamianova.wordpress.com/2013/05/02/why-are-the-
+olympic-games-so-important-to-many-of-us/.
+
+Pedaling Pictures. (n.d.). Kok-Boru: A Brief Introduction. YouTube.
+broadcast.
+https:/[/www.youtube.com/watch?v=lH](http://www.youtube.com/watch?v=lHFrU53KUrg)F[rU53KUrg.](http://www.youtube.com/watch?v=lHFrU53KUrg)
+
+Pretto, R. (2021, March 15). Traditional musical instruments of
+Kazakhstan. Travel Tomorrow.
+https://traveltomorrow.com/traditional-musical-instruments-of-
+kazakhstan/.
+
+Scott. (n.d.). Ashgabat 2018 - IWF World Championships - Opening
+Ceremony. Youtube. broadcast.
+https://[www.youtube.com/watch?v=kuZH5P90tzI&list=WL&index=19.](http://www.youtube.com/watch?v=kuZH5P90tzI&list=WL&index=19)
+
+Tetrault-Farber, G. (2021, June 14). Turkmenistan Outs Itself as
+Unlikely Sporting Mecca. The Moscow Times.
+https://[www.themoscowtimes.com/2015/04/06/turkmenistan-](http://www.themoscowtimes.com/2015/04/06/turkmenistan-)
+outs-itself-as-unlikely-sporting-mecca-a45508.
+
+Turkmen Petroleum. (2017, August 22). Two facilities of Ashgabat's
+Olympic village get into Guinness World Records. Turkmen Petroleum.
+https://turkmenpetroleum.com/en/2017/08/22/two-facilities-of-ashgabats-olympic-
+village-get-into-guinness-world-records/.
+
+UPENN. (2017, November 17). The Last Wild Apple Forests, Kazakhstan.
+Russian and East European Studies.
+https://rees.sas.upenn.edu/about/spotlight/last-wild-apple-forests-
+kazakhstan.
+
+World Nomad Games 2018. Всемирные Игры Кочевников 2018 - World Nomad
+Games 2018. (n.d.).
+[http://worldnomadgames.com/en/.](http://worldnomadgames.com/en/)
+
+## Annex
+
 
 > Hays, J. (2016). *MANAS*. Facts and Details.
 > <http://factsanddetails.com/central->
 > asia/Kyrgyzstan/sub8\_5c/entry-4772.html.
 
-Tables
-------
+## Tables
 
 > *World Nomad Games 2018*. Всемирные Игры Кочевников 2018 - World Nomad
 > Games 2018. (n.d.).
 > [http://worldnomadgames.com/en/.](http://worldnomadgames.com/en/)
 
-Images
-------
+## Images
 
 > Barlett, S. (2017). Ashgabat Olympic Stadium, Turkmenistan. Bluecube3.
 > https:/[/www.bluecubese](http://www.bluecubeseating.com/new/ashgabat-olympic-stadium-turkmenistan-2/)a[ting.com/new/ashgabat-olympic-stadium-turkmenistan-2/.](http://www.bluecubeseating.com/new/ashgabat-olympic-stadium-turkmenistan-2/)
@@ -712,52 +705,51 @@ Images
 > <http://www.tensaform.com/en/projects/completed-projects/turkmenistan-ashgabat->
 > olympic-stadium/.
 
-Annex
-=====
+## Annex
+
 
 Annex 1 -- Summary of the Epic of Manas^lxxxiii^
 
-> The legends and folk stories are set in the period when the Kyrgyz
-> were exiled from their native lands in the Lake Baikal area of
-> present-day Russia by Chinese warriors and moved to the Altai
-> territory, where present-day Russia, Kazakhstan, Mongolia and China
-> all come together. It was here that Manas was born. From an early age
-> he displayed extraordinary abilities and feats of strength and got
-> himself into various scrapes due to his propensity to mischief and
-> generosity. His fame spread far beyond the Altai. When the Chinese
-> emperor heard about Manas's strengths sent an army of warriors to kill
-> him, Manas managed not only to smash the Chinese, he united the Kyrgyz
-> and regained their native lands. Thus, for the Kyrgyz people Manas is
-> the legendary hero who united all Kyrgyz tribes to win back their
-> motherland.
->
-> Manas's son Semetey was a great warrior too. After Manas death, his
-> wife Kanykei and with her son moved back with her parents. Semetey
-> grew up not knowing that he was a son of a legendary hero. Once he
-> realized the truth about his origin, Semetey decided to regain Kyrgyz
-> lands and avenge the death of his father. Semetey and his friends
-> performed many acts of bravery. But his enemies conspired against him
-> and eventually prevailed. The second part of Kyrgyz Epic Trilogy ends
-> with Semetey's disappearance.
->
-> The Manas' third part "Seytek" deals with Kyrgyz's struggle against
-> local enemies. It is narrates the struggles and adventures of the
-> Seytek, grandson of Manas and is a continuation of the narrative
-> unveiled in previous parts. The story includes Seytek's upbringing in
-> the camp of his father's enemy; his unawareness of his origin; his
-> maturation into a great hero; the discovery of the truth about his
-> origin; the expulsion of his enemies; his return to his people; and
-> the unification of the Kyrgyz and restoration of peace.
+The legends and folk stories are set in the period when the Kyrgyz
+were exiled from their native lands in the Lake Baikal area of
+present-day Russia by Chinese warriors and moved to the Altai
+territory, where present-day Russia, Kazakhstan, Mongolia and China
+all come together. It was here that Manas was born. From an early age
+he displayed extraordinary abilities and feats of strength and got
+himself into various scrapes due to his propensity to mischief and
+generosity. His fame spread far beyond the Altai. When the Chinese
+emperor heard about Manas's strengths sent an army of warriors to kill
+him, Manas managed not only to smash the Chinese, he united the Kyrgyz
+and regained their native lands. Thus, for the Kyrgyz people Manas is
+the legendary hero who united all Kyrgyz tribes to win back their
+motherland.
 
-Tables
-------
+Manas's son Semetey was a great warrior too. After Manas death, his
+wife Kanykei and with her son moved back with her parents. Semetey
+grew up not knowing that he was a son of a legendary hero. Once he
+realized the truth about his origin, Semetey decided to regain Kyrgyz
+lands and avenge the death of his father. Semetey and his friends
+performed many acts of bravery. But his enemies conspired against him
+and eventually prevailed. The second part of Kyrgyz Epic Trilogy ends
+with Semetey's disappearance.
+
+The Manas' third part "Seytek" deals with Kyrgyz's struggle against
+local enemies. It is narrates the struggles and adventures of the
+Seytek, grandson of Manas and is a continuation of the narrative
+unveiled in previous parts. The story includes Seytek's upbringing in
+the camp of his father's enemy; his unawareness of his origin; his
+maturation into a great hero; the discovery of the truth about his
+origin; the expulsion of his enemies; his return to his people; and
+the unification of the Kyrgyz and restoration of peace.
+
+## Tables
 
 Table 1 -- Sports in the World Nomad Games^lxxxiv^
 
 +----------------------------------------------------------------------+
-| > **ETHNOSPORT**                                                     |
-+======================================================================+
-| > **Competitions in Archery using Traditional Bows**                 |
+|**ETHNOSPORT**                                                     |
++======+
+|**Competitions in Archery using Traditional Bows**                 |
 +----------------------------------------------------------------------+
 | Archery using a traditional bow at a distance from Hungary.          |
 +----------------------------------------------------------------------+
@@ -772,7 +764,7 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 +----------------------------------------------------------------------+
 |                                                                      |
 +----------------------------------------------------------------------+
-| > **Competitions in Traditional Hunting, Salbuurun**                 |
+|**Competitions in Traditional Hunting, Salbuurun**                 |
 +----------------------------------------------------------------------+
 | Burkut Saluu -- hunting with golden eagles from the Kyrgyz Republic; |
 +----------------------------------------------------------------------+
@@ -782,7 +774,7 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 +----------------------------------------------------------------------+
 |                                                                      |
 +----------------------------------------------------------------------+
-| > **Competitions in Traditional types of Wrestling**                 |
+|**Competitions in Traditional types of Wrestling**                 |
 +----------------------------------------------------------------------+
 | Alysh -- a traditional type of belt wrestling from the Kyrgyz        |
 | Republic;                                                            |
@@ -823,7 +815,7 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 +----------------------------------------------------------------------+
 |                                                                      |
 +----------------------------------------------------------------------+
-| > **Competitions in Traditional types of Martial Arts**              |
+|**Competitions in Traditional types of Martial Arts**              |
 +----------------------------------------------------------------------+
 | Armwrestling -- a traditional worldwide sport.                       |
 +----------------------------------------------------------------------+
@@ -834,7 +826,7 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 +----------------------------------------------------------------------+
 |                                                                      |
 +----------------------------------------------------------------------+
-| > **Horse Games**                                                    |
+|**Horse Games**                                                    |
 +----------------------------------------------------------------------+
 | Er-enish -- a traditional horse game from the Kyrgyz Republic,       |
 | involving two wrestlers on horseback                                 |
@@ -843,7 +835,7 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 +----------------------------------------------------------------------+
 
 +-----------------------------------------------------------------+
-| > **Horse Racing**                                              |
+|**Horse Racing**                                              |
 +-----------------------------------------------------------------+
 | At Chabysh -- races over a long distance                        |
 +-----------------------------------------------------------------+
@@ -859,13 +851,13 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 +-----------------------------------------------------------------+
 |                                                                 |
 +-----------------------------------------------------------------+
-| > **Traditional Games**                                         |
+|**Traditional Games**                                         |
 +-----------------------------------------------------------------+
 | Ordo -- a traditional game in the Kyrgyz Republic               |
 +-----------------------------------------------------------------+
 |                                                                 |
 +-----------------------------------------------------------------+
-| > **Traditional Intellectual Games**                            |
+|**Traditional Intellectual Games**                            |
 +-----------------------------------------------------------------+
 | Toguz Korgool -- an intellectual game from the Kyrgyz Republic; |
 +-----------------------------------------------------------------+
@@ -874,8 +866,7 @@ Table 1 -- Sports in the World Nomad Games^lxxxiv^
 | Oware -- an intellectual game from west Africa                  |
 +-----------------------------------------------------------------+
 
-Images
-------
+## Images
 
 Image 1. -- Headscarf^lxxxv^
 
