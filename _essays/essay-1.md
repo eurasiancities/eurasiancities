@@ -56,7 +56,7 @@ the Ukrainian Soviet Socialist Republic[^3], thus further in the essay,
 I am to call Pryp'yat' a town, just for convenience.
 
 <p align="center">
-<img src="/images/alex/image1.jpg" alt="drawing" style="width:100px; text-align:center;"/>
+<img src="/images/alex/image1.jpg" alt="drawing" style="width:150px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -74,8 +74,13 @@ connections. The town actually was named after a local hydronym -- the river Pry
 enterprise, a nuclear power plant) in the Soviet Union.
 
 <p align="center">
-<img src="/images/alex/image2.jpg" alt="drawing" style="width:100px; text-align:center;"/>
+<img src="/images/alex/image2.jpg" alt="drawing" style="width:300px; text-align:center;"/>
 </p>
+
+<p align="center">
+<i>Source: Припять – город призрак.</i>
+</p>
+
 
 However, an important question arises about the town's founding: who and
 why came up with an idea to construct a huge nuclear power plant just a
@@ -91,8 +96,14 @@ Union's Ministry of Energy and Electrification. The plan was titled
 Construction; the General Plan of the Settlement"[^4] (hereinafter --
 The Plan).
 
-![Генеральный план поселка --
-Pripyat-City.ru](alex/image3.jpg")
+<p align="center">
+<img src="/images/alex/image3.jpg" alt="drawing" style="width:300px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: The truth about Chernobyl? I saw it with my own eyes.</i>
+</p>
+
 
 According to the Plan, all three stages of the town construction were
 determined by the construction phases of the Chornobyl nuclear power
@@ -128,7 +139,7 @@ workers but also for service staff of the plant, tallying to about 1,700
 people. According to the Plan, at this stage of construction, the rate
 of living space was determined as nine square meters per person.
 
-![](alex/image4.jpg")The third phase of the town construction
+The third phase of the town construction
 was planned to be carried out from 1985 to 1990, simultaneously with the
 completion of the nuclear power plant construction and its launch at
 full capacity. The living space norm was determined at the rate of 12
@@ -158,7 +169,13 @@ Pryp'yat', the nearest settlement to the nuclear power plant**,** was
 probably the first locality to suffer the most devastating impact of the
 blowout and emissions.
 
-![](alex/image5.jpg")
+<p align="center">
+<img src="/images/alex/image4.jpg" alt="drawing" style="width:300px; text-align:center;"/>
+</p>
+
+<p align="center">
+<i>Source: Euronews (April 26, 2016)</i>
+</p>
 
 On the morning of April 26, 1986, already after the explosion, pupils
 still went to schools, albeit for the last time in the town. The whole
