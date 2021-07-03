@@ -409,7 +409,7 @@ Nomad Games 2018)
 
 ii (Jahnke, 2017)
 
-> iii (Jahnke, 2017)
+iii (Jahnke, 2017)
 
 iv (Jahnke, 2017)
 
@@ -417,9 +417,9 @@ v (Jahnke, 2017)
 
 vi (Jahnke, 2017)
 
-> vii (Jahnke, 2017)
->
-> viii (Jahnke, 2017)
+vii (Jahnke, 2017)
+
+viii (Jahnke, 2017)
 
 ix (AKIpress news, 2018, FEATR, 2018, FISU, 2017, Jahnke, 2017, Scott,
 2018, World Nomad
@@ -430,11 +430,11 @@ x (Jahnke, 2017)
 
 xi (Jahnke, 2017)
 
-> xii (Jahnke, 2017)
->
-> xiii (Jahnke, 2017)
->
-> xiv (Jahnke, 2017)
+xii (Jahnke, 2017)
+
+xiii (Jahnke, 2017)
+
+xiv (Jahnke, 2017)
 
 xv (Lange, 2020, Nansystar, 2013)
 
@@ -453,41 +453,41 @@ xxi (Grousset, 1970, p. 161, 164) xxii (Turkmen Petroleum, 2017) xxiii
 
 xxiv (Denison, 2009, p. 1176)
 
-> xxv (FISU, 2017)
+xxv (FISU, 2017)
 
 xxvi (FISU, 2017, Pretto, 2021)
 
-> xxvii (FISU, 2017)
->
-> xxviii (FISU, 2017)
->
-> xxix (FISU, 2017)
->
-> xxx (FISU, 2017)
->
-> xxxi (FISU, 2017)
->
-> xxxii (FISU, 2017)
->
-> xxxiii (FISU, 2017)
->
-> xxxiv (FISU, 2017)
->
-> xxxv (FISU, 2017)
->
-> xxxvi (FISU, 2017)
->
-> xxxvii (FISU, 2017)
->
-> xxxviii (FISU, 2017)
->
-> xxxix (FISU, 2017)
+xxvii (FISU, 2017)
+
+xxviii (FISU, 2017)
+
+xxix (FISU, 2017)
+
+xxx (FISU, 2017)
+
+xxxi (FISU, 2017)
+
+xxxii (FISU, 2017)
+
+xxxiii (FISU, 2017)
+
+xxxiv (FISU, 2017)
+
+xxxv (FISU, 2017)
+
+xxxvi (FISU, 2017)
+
+xxxvii (FISU, 2017)
+
+xxxviii (FISU, 2017)
+
+xxxix (FISU, 2017)
 
 xl (UPENN, 2017)
 
 xli (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
 
-> xlii (FISU, 2017)
+xlii (FISU, 2017)
 
 xliii (Всемирные Игры Кочевников 2018 - World Nomad Games 2018)
 
@@ -495,7 +495,7 @@ xliv (Denison, 2009, p. 1176)
 
 xlv (Denison, 2009, p. 1176, Imanova & Koch, 2010).
 
-> xlvi (Macfarquhar, 2018)
+xlvi (Macfarquhar, 2018)
 
 xlvii (Всемирные Игры Кочевников 2018 - World Nomad Games 2018) xlviii
 (Всемирные Игры Кочевников 2018 - World Nomad Games 2018) xlix
@@ -506,13 +506,13 @@ li (AKIpress news, 2018)
 
 lii (FEATR, 2018, AKIpress news, 2018)
 
-> liii (Micallef, 2021)
->
-> liv (Hays, 2016)
+liii (Micallef, 2021)
+
+liv (Hays, 2016)
 
 lv (Hays, 2016)
 
-> lvi (Hays, 2016)
+lvi (Hays, 2016)
 
 lvii (AKIpress news, 2018)
 
@@ -548,27 +548,27 @@ lxxxii (Всемирные Игры Кочевников 2018 - World Nomad Game
 
 ^lxxxiii^ (Hays, 2016)
 
-> lxxxiv (*World Nomad Games 2018*)
->
-> lxxxv (Jahnke, 2016)
->
-> lxxxvi (Jahnke, 2016)
->
-> lxxxvii(Jahnke, 2016)
->
-> lxxxviii(Jahnke, 2016)
->
-> lxxxix (Jahnke, 2016)
+lxxxiv (*World Nomad Games 2018*)
+
+lxxxv (Jahnke, 2016)
+
+lxxxvi (Jahnke, 2016)
+
+lxxxvii(Jahnke, 2016)
+
+lxxxviii(Jahnke, 2016)
+
+lxxxix (Jahnke, 2016)
 
 xc (Jahnke, 2016)
 
-> xci (Jahnke, 2016)
->
-> xcii (Jahnke, 2016)
->
-> xciii (Barlett, 2017)
->
-> xciv (tensaform) xcv (Shutterstock) xcvi (FISU, 2017)
+xci (Jahnke, 2016)
+
+xcii (Jahnke, 2016)
+
+xciii (Barlett, 2017)
+
+xciv (tensaform) xcv (Shutterstock) xcvi (FISU, 2017)
 
 ##  Bibliography
 
@@ -671,39 +671,25 @@ Games 2018. (n.d.).
 ## Annex
 
 
-> Hays, J. (2016). *MANAS*. Facts and Details.
-> <http://factsanddetails.com/central->
-> asia/Kyrgyzstan/sub8\_5c/entry-4772.html.
+Hays, J. (2016). *MANAS*. Facts and Details. <http://factsanddetails.com/central-asia/Kyrgyzstan/sub8\_5c/entry-4772.html.
 
 ## Tables
 
-> *World Nomad Games 2018*. Всемирные Игры Кочевников 2018 - World Nomad
-> Games 2018. (n.d.).
-> [http://worldnomadgames.com/en/.](http://worldnomadgames.com/en/)
+*World Nomad Games 2018*. Всемирные Игры Кочевников 2018 - World Nomad Games 2018. (n.d.). [http://worldnomadgames.com/en/.](http://worldnomadgames.com/en/)
 
 ## Images
 
-> Barlett, S. (2017). Ashgabat Olympic Stadium, Turkmenistan. Bluecube3.
-> https:/[/www.bluecubese](http://www.bluecubeseating.com/new/ashgabat-olympic-stadium-turkmenistan-2/)a[ting.com/new/ashgabat-olympic-stadium-turkmenistan-2/.](http://www.bluecubeseating.com/new/ashgabat-olympic-stadium-turkmenistan-2/)
->
-> FISU. (2017). Opening Ceremony Full Hd official Replay- 28th Winter
-> Universiade 2017, Almaty, Kazakhstan. Youtube. FISU.
-> https:/[/www.youtube.com/watch?v=yTl7jQb9z](http://www.youtube.com/watch?v=yTl7jQb9zrA)r[A.](http://www.youtube.com/watch?v=yTl7jQb9zrA)
->
-> Jahnke, M. (2016). Hang On To Your Hats: An Exhaustive Guide to
-> Central Asian Headgear.
->
-> Monday Bazaar. Mark Jahnke.
-> https://mondaybazaarblog.com/2016/05/27/hang-on-
-> to-your-hats-an-exhaustive-guide-to-central-asian-headgear/.
->
-> Shutterstock. (n.d.). Zhetygen. Shutterstock. Shutterstock.
-> https:/[/www.shutterstock.com/se](http://www.shutterstock.com/search/zhetygen)a[rch/zhetygen.](http://www.shutterstock.com/search/zhetygen)
->
-> tensaform. (n.d.). Saparmurat Turkmenbashy Olympic Stadium. tensaform.
-> tensaform.
-> <http://www.tensaform.com/en/projects/completed-projects/turkmenistan-ashgabat->
-> olympic-stadium/.
+Barlett, S. (2017). Ashgabat Olympic Stadium, Turkmenistan. Bluecube3. https:/[/www.bluecubese](http://www.bluecubeseating.com/new/ashgabat-olympic-stadium-turkmenistan-2/)a[ting.com/new/ashgabat-olympic-stadium-turkmenistan-2/.](http://www.bluecubeseating.com/new/ashgabat-olympic-stadium-turkmenistan-2/)
+
+FISU. (2017). Opening Ceremony Full Hd official Replay- 28th Winter Universiade 2017, Almaty, Kazakhstan. Youtube. FISU. https:/[/www.youtube.com/watch?v=yTl7jQb9z](http://www.youtube.com/watch?v=yTl7jQb9zrA)r[A.](http://www.youtube.com/watch?v=yTl7jQb9zrA)
+
+Jahnke, M. (2016). Hang On To Your Hats: An Exhaustive Guide to Central Asian Headgear.
+
+Monday Bazaar. Mark Jahnke. https://mondaybazaarblog.com/2016/05/27/hang-on-to-your-hats-an-exhaustive-guide-to-central-asian-headgear/.
+
+Shutterstock. (n.d.). Zhetygen. Shutterstock. Shutterstock. https:/[/www.shutterstock.com/se](http://www.shutterstock.com/search/zhetygen)a[rch/zhetygen.](http://www.shutterstock.com/search/zhetygen)
+
+tensaform. (n.d.). Saparmurat Turkmenbashy Olympic Stadium. tensaform. <http://www.tensaform.com/en/projects/completed-projects/turkmenistan-ashgabat-olympic-stadium/.
 
 ## Annex
 
