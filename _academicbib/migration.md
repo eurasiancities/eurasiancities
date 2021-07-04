@@ -102,3 +102,5 @@ Anna-Liisa Heusala and Kaarina Aitamurto, 24. London: Routledge.
 White, Anne. 2007. 'Internal Migration Trends in Soviet and Post-Soviet
 European Russia'. *Europe-Asia Studies* 59 (6): 887--911.
 https://doi.org/10.1080/09668130701489105.
+
+Зайончковская, Жанна Антоновна. 2000. <<Миграция Населения Ссср И России В ХХ Веке: Эволюция Сквозь Катаклизмы>>. *Федеральное государственное бюджетное учреждение науки Институт народнохозяйственного прогнозирования Российской академии наук*, issue 4, pages 1-15.
