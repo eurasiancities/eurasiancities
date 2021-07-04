@@ -24,7 +24,7 @@ collections:
     output: true
   podcasts:
     output: true
-  academic-bib:
+  academicbib:
     output: true
 # Includes an icon in the footer for each username you enter
 footer-links:
