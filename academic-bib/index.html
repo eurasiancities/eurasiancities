@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for bib in site.academic-bib reversed %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ academic-bib.url }}">{{ academic-bib.title }}</a></h1>
+      <div class="entry">
+        
+      </div>
+    </article>
+  {% endfor %}
+</div>
