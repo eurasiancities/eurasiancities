@@ -5,8 +5,6 @@ author: Morgane Bazinet
 date: Jul 4 2021 09:11
 ---
 
-## Introduction
-
 Tourists preparing to visit Tallinn, the capital of Estonia, will find numerous information on its beautifully preserved historical center which ranks among [UNESCO sites on the World Heritage List](https://whc.unesco.org/en/list/822/). Travel guides are filled with pictures of the city hall, churches, scenic viewpoints of the sea and picturesque colored facades of the old town. It appears like a medieval European harbor city full of wonders, almost like a time-capsule that was transported from the Middle Ages to today, skipping the 20^th^ century.
 
 <p align="center">
