@@ -3,14 +3,25 @@ layout: default
 ---
 
 <div class="posts">
+{% for flavour in site.posts %}
     <article class="post">
-
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ essay.title }}</a></h1>
 	  <p>By: {{ essay.author }}</p>
 	  <p style="color: #666;">Published: {{ essay.date | date: "%x %l:%M %P"}}</p>
 
       <div class="entry">
-        {{ essay.content }}
+        {{ essay.excerpt  }}
       </div>
     </article>
+{% else %}
+      <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ podcast.title }}</a></h1>
+	  <p>By: {{ podcast.author }}</p>
+	  <p style="color: #666;">Published: {{ podcast.date | date: "%x %l:%M %P"}}</p>
+
+      <div class="entry">
+        {{ podcast.excerpt  }}
+      </div>
+    </article>
+{% endfor %}
 </div>
