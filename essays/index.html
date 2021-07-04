@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="bibliography">
-  {% for essay in site.essays reversed %}
-    <article class="bibliography">
+<div class="posts">
+  {% for essay in site.posts.essays reversed %}
+    <article class="posts">
 
       <h1><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title }}</a></h1>
 	  <p>Author: {{ essay.author }}</p>

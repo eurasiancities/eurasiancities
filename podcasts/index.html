@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for podcast in site.podcasts reversed %}
+  {% for podcast in site.posts.podcasts reversed %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ podcast.url }}">{{ podcast.title }}</a></h1>
