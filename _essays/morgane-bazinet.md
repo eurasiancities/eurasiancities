@@ -40,7 +40,7 @@ Interestingly enough, Soviet urban planners came to favor mass housing districts
 Mikrorayons are the Soviet equivalent of Western "garden cities" or Swedish ABC towns. In the Baltics, this type of planning in urban design, consisting of a [network of services easily reachable](https://link.springer.com/chapter/10.1007/978-3-030-23392-1_14) by foot, became popular from the late 1960s, as demand for housing was constantly growing. At the same time, a quality of living had to be offered to the population. Mikrorayons offered green space, less time commuting and a variety of services to a specified number of residents living in the area.
 
 <p align="center">
-<img src="/images/morgane/image03.png" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/morgane/image03.jpeg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ A third reason as to why Estonia had the possibility of developing Väike-Õism�
 Standing out from Latvia and Lithuania, Estonia shares a linguistic family with Finland, as they are both members of the [Finno-Ugric languages group](https://www.britannica.com/topic/Finno-Ugric-languages), which makes it culturally closer to its northern neighbor than to Russia, for instance. Geography and past history putting [Estonia under Denmark rule](https://estinst.ee/wp-content/uploads/2019/05/Danneborg-Eng-WWW-.pdf) (1219-1346), then [part of the Swedish Kingdom](https://www.spottinghistory.com/historicalperiod/swedish-empire-estonia/) (1561-1721) show that while a Baltic country, Estonia [could be considered a Nordic country with close ties to Scandinavia](https://scandification.com/where-is-estonia-and-is-estonia-nordic/), despite the Soviet disruption.
 
 <p align="center">
-<img src="/images/morgane/image05.png" alt="drawing" style="width:600px; text-align:center;"/>
+<img src="/images/morgane/image05.jpg" alt="drawing" style="width:600px; text-align:center;"/>
 </p>
 
 <p align="center">
