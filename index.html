@@ -3,15 +3,16 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign combined_categories_posts =  site.collections[podcasts] | concat: site.collections[essays] %}
-	  {% for post in combined_categories_posts reversed %}
-		<article class="post">
-		  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-		  <p>By: {{ post.author }}</p>
-		  <p style="color: #666;">Published: {{ post.date | date: "%x %l:%M %P"}}</p>
-		  <div class="entry">
-			{{ post.content }}
-		  </div>
-		</article>
-	  {% endfor %}
+  {% for post in site.posts reversed %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	  <p>By: {{ post.author }}</p>
+	  <p style="color: #666;">Published: {{ post.date | date: "%x %l:%M %P"}}</p>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+    </article>
+  {% endfor %}
 </div>
