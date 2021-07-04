@@ -107,13 +107,7 @@ of Tartu, Estonia'. *International Journal of Urban and Regional
 Research* 27 (4): 897--911.
 https://doi.org/10.1111/j.0309-1317.2003.00490.x.
 
-Mezentsev, Kostyantyn, Grygorii Pidgrushnyi, and Nataliia Mezentseva.
-2015. 'Challenges of the Post-Soviet Development of Ukraine: Economic
-Transformations, Demographic Changes and Socio-Spatial Polarization'. In
-*Understanding Geographies of Polarization and Peripheralization*,
-edited by Thilo Lang, Sebastian Henn, Wladimir Sgibnev, and Kornelia
-Ehrlich, 252--69. London: Palgrave Macmillan UK.
-https://doi.org/10.1057/9781137415080\_14.
+Mezentsev, Kostyantyn, Grygorii Pidgrushnyi, and Nataliia Mezentseva. 2015. 'Challenges of the Post-Soviet Development of Ukraine: Economic Transformations, Demographic Changes and Socio-Spatial Polarization'. In *Understanding Geographies of Polarization and Peripheralization*,edited by Thilo Lang, Sebastian Henn, Wladimir Sgibnev, and Kornelia Ehrlich, 252--69. London: Palgrave Macmillan UK. https://doi.org/10.1057/9781137415080\_14.
 
 Morton, Henry W. 1980. 'Who Gets What, When and How? Housing in the
 Soviet Union'. *Europe-Asia Studies* 32 (2): 235--59.
@@ -142,10 +136,7 @@ Heleen Janssen. 2020. 'Relationship between Income Inequality and
 Residential Segregation of Socioeconomic Groups'. *Regional Studies* 54
 (4): 450--61. https://doi.org/10.1080/00343404.2018.1540035.
 
-Toomet, Ott, Siiri Silm, Erki Saluveer, Rein Ahas, and Tiit Tammaru.
-2015. 'Where Do Ethno-Linguistic Groups Meet? How Copresence during
-Free-Time Is Related to Copresence at Home and at Work'. *PLOS ONE* 10
-(5): e0126093. https://doi.org/10.1371/journal.pone.0126093.
+Toomet, Ott, Siiri Silm, Erki Saluveer, Rein Ahas, and Tiit Tammaru. 2015. 'Where Do Ethno-Linguistic Groups Meet? How Copresence during Free-Time Is Related to Copresence at Home and at Work'. *PLOS ONE* 10 (5): e0126093. https://doi.org/10.1371/journal.pone.0126093.
 
 Trubina, Elena. 2020. 'Sidewalk Fix, Elite Maneuvering and Improvement
 Sensibilities: The Urban Improvement Campaign in Moscow'. *Journal of
