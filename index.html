@@ -15,12 +15,12 @@ layout: default
     </article>
 {% else %}
       <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ site.podcast.title }}</a></h1>
-	  <p>By: {{ site.podcast.author }}</p>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ site.podcasts.title }}</a></h1>
+	  <p>By: {{ site.podcasts.author }}</p>
 	  <p style="color: #666;">Published: {{ site.podcast.date | date: "%x %l:%M %P"}}</p>
 
       <div class="entry">
-        {{ site.podcast.excerpt  }}
+        {{ site.podcasts.excerpt  }}
       </div>
     </article>
 {% endfor %}
