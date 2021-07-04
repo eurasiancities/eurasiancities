@@ -6,8 +6,6 @@ date: Jul 3 2021 14:17
 ---
 
 
-## Introduction
-
 International sporting events are not just athletic competitions but also ideological competitions between the athletes' nations' cultural, political, and social beliefs. The best example is the 1980 Lake Placid Olympic Games where the Soviet Union took on the United States in the Semi-Final Ice Hockey Match; this game would decide who competed for the Gold Medal. The match also represented the ideological clash between communism and capitalism.
 
 The prestige associated with hosting international sporting events allows the hosting governments to display their cultural, political, and social beliefs to a global audience.
