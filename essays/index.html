@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for essay in site.posts.essays reversed %}
+  {% for essay in site.essays reversed %}
     <article class="posts">
 
       <h1><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title }}</a></h1>

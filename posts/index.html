@@ -3,28 +3,15 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts.essays reversed %}
+  {% for podcast in site.podcasts reversed %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-	  <p>Author: {{ post.author }}</p>
-	  <p style="color: #666;">Published: {{ post.date | date: "%x %l:%M %P"}}</p>
+      <h1><a href="{{ site.baseurl }}{{ podcast.url }}">{{ podcast.title }}</a></h1>
+	  <p>Author: {{ podcast.author }}</p>
+	  <p style="color: #666;">Published: {{ podcast.date | date: "%x %l:%M %P"}}</p>
 
       <div class="entry">
-        {{ post.excerpt }}
-      </div>
-    </article>
-  {% endfor %}
-
-  {% for post in site.posts.podcasts reversed %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-	  <p>Author: {{ post.author }}</p>
-	  <p style="color: #666;">Published: {{ post.date | date: "%x %l:%M %P"}}</p>
-
-      <div class="entry">
-        {{ post.excerpt }}
+        {{ podcast.excerpt }}
       </div>
     </article>
   {% endfor %}
