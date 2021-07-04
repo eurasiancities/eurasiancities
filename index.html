@@ -5,12 +5,12 @@ layout: default
 <div class="posts">
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-	  <p>By: {{ post.author }}</p>
-	  <p style="color: #666;">Published: {{ post.date | date: "%x %l:%M %P"}}</p>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ essay.title }}</a></h1>
+	  <p>By: {{ essay.author }}</p>
+	  <p style="color: #666;">Published: {{ essay.date | date: "%x %l:%M %P"}}</p>
 
       <div class="entry">
-        {{ post.content }}
+        {{ essay.content }}
       </div>
     </article>
 </div>
