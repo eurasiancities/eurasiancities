@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Väike-Õismäe: a Socialist Utopia Becoming a Failed Dream
+title: "Väike-Õismäe: a Socialist Utopia Becoming a Failed Dream"
 author: Morgane Bazinet
 date: Jul 4 2021 09:11
 ---
