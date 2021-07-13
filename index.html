@@ -10,7 +10,7 @@ layout: default
 	  <p style="color: #666;">Published: {{ essay.date | date: "%x %l:%M %P"}}</p>
 
       <div class="entry">
-        {{ essay.excerpt  }}
+        {{ essay  }}
       </div>
     </article>
 {% else %}
@@ -20,7 +20,7 @@ layout: default
 	  <p style="color: #666;">Published: {{ site.podcast.date | date: "%x %l:%M %P"}}</p>
 
       <div class="entry">
-        {{ site.podcasts.excerpt  }}
+        {{ site.podcasts}}
       </div>
     </article>
 {% endfor %}
